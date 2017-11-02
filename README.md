@@ -4,6 +4,7 @@ Game
 ML
 * [NLTK](http://www.nltk.org/)
 * [TACOTRON](https://arxiv.org/pdf/1703.10135.pdf)
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
 AWS
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
