@@ -12,6 +12,7 @@ DevOps
 * [Elasticsearch Service](http://docs.aws.amazon.com/ko_kr/elasticsearch-service/latest/developerguide/aes-dg.pdf)
 * [How to Use Elasticsearch, Logstash, and Kibana to Manage Redis Logs](https://www.rosehosting.com/blog/install-and-configure-the-elk-stack-on-ubuntu-16-04/)
 * [How to Install and Configure the ELK Stack on Ubuntu](https://www.rosehosting.com/blog/install-and-configure-the-elk-stack-on-ubuntu-16-04/)
+* [Enable Authentication in ElasticSearch](http://blog.raffaeu.com/archive/2016/02/17/enable-authentication-in-elasticsearch.aspx)
 * [Log Aggregation](https://logz.io/blog/kafka-vs-redis/) 
 * [posgresql log](https://blog.2ndquadrant.com/redislog-integrating-postgresql-with-logstash-for-devops-real-time-monitoring/)
 * https://www.slideshare.net/changjej/aws-daily-report
