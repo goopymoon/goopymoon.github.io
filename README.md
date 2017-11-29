@@ -6,6 +6,9 @@ ML
 * [TACOTRON](https://arxiv.org/pdf/1703.10135.pdf)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
+NodeJS
+* [PM2](https://cheese10yun.github.io/PM2/)
+
 DevOps
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
