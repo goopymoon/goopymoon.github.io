@@ -9,7 +9,7 @@ ML
 NodeJS
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [PM2 Official](http://pm2.keymetrics.io/), [Simple Usage](https://cheese10yun.github.io/PM2/)
-
+* [JavaScript books - free to read online](http://exploringjs.com/)
 
 DevOps
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
