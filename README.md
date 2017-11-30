@@ -9,6 +9,7 @@ ML
 NodeJS
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), [How to setup](http://www.acuriousanimal.com/2016/08/14/configuring-atom-with-eslint.html)
 * [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
+* [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
 * [PM2 Official](http://pm2.keymetrics.io/), [Simple Usage](https://cheese10yun.github.io/PM2/)
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
