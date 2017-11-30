@@ -7,8 +7,10 @@ ML
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
 NodeJS
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [PM2 Official](http://pm2.keymetrics.io/)
 * [PM2 Simple Usage](https://cheese10yun.github.io/PM2/)
+
 
 DevOps
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
