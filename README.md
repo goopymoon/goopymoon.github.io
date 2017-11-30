@@ -22,3 +22,4 @@ DevOps
 * https://www.slideshare.net/changjej/aws-daily-report
 * https://www.slideshare.net/julingks/kgc2014?next_slideshow=1
 * [Deploy using Rundeck and Ansible](https://gitlab.com/alandie/Rundeck-Ansible-AWS/tree/master/Rundeck-Ansible-AWS)
+* [Crash Reporting - hocketyapp](https://hockeyapp.net/)
