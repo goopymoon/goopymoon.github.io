@@ -8,8 +8,7 @@ ML
 
 NodeJS
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [PM2 Official](http://pm2.keymetrics.io/)
-* [PM2 Simple Usage](https://cheese10yun.github.io/PM2/)
+* [PM2 Official](http://pm2.keymetrics.io/), [Simple Usage](https://cheese10yun.github.io/PM2/)
 
 
 DevOps
