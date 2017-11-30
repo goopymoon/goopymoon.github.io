@@ -7,7 +7,8 @@ ML
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
 NodeJS
-* [PM2](https://cheese10yun.github.io/PM2/)
+* [PM2 Official](http://pm2.keymetrics.io/)
+* [PM2 tips](https://cheese10yun.github.io/PM2/)
 
 DevOps
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
