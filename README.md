@@ -9,7 +9,7 @@ ML
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
 NodeJS
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), [How to setup](http://www.acuriousanimal.com/2016/08/14/configuring-atom-with-eslint.html)
+* [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), [How to setup](http://www.acuriousanimal.com/2016/08/14/configuring-atom-with-eslint.html)
 * [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
 * [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
 * [PM2](http://pm2.keymetrics.io/) - [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
