@@ -17,7 +17,7 @@ NodeJS
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
 DevOps
-* [Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
+* [Docker Compose Usage](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
 * [Elasticsearch Service](http://docs.aws.amazon.com/ko_kr/elasticsearch-service/latest/developerguide/aes-dg.pdf)
