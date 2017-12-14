@@ -11,7 +11,7 @@ ML
 
 Setting Up Development Environment
 * [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
-* [Resizing disk size of Virtualbox](http://derekmolloy.ie/resize-a-virtualbox-disk/)
+* [Resize a VirtualBox guest Linux VDI Disk under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/)
 * [VSCode in Ubuntu](https://code.visualstudio.com/docs/setup/linux)
 * [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
