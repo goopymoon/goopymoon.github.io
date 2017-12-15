@@ -24,6 +24,10 @@ NodeJS
 * [PM2](http://pm2.keymetrics.io/) - [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
+Windows Script
+* [Batch files](http://www.robvanderwoude.com/batchfiles.php)
+* [PowerShell](http://www.robvanderwoude.com/powershell.php)
+
 DevOps
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
