@@ -25,7 +25,7 @@ NodeJS
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
 Windows Batch file
-* [Using batch script](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true)
+* [Using batch parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true)
 * [Batch files](http://www.robvanderwoude.com/batchfiles.php)
 * [PowerShell](http://www.robvanderwoude.com/powershell.php)
 
