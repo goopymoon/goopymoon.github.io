@@ -4,10 +4,10 @@ ML
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
 Game
-* [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
+* Unity: [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * UE: [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html), [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
 * [Spine](http://esotericsoftware.com/)
-* [Live2D](http://www.live2d.com/ja/), [tutorial](http://sites.cybernoids.jp/cubism2_kr/)
+* [Live2D](http://www.live2d.com/ja/): [tutorial](http://sites.cybernoids.jp/cubism2_kr/)
 
 Setting Up Development Environment
 * [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
