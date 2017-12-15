@@ -8,7 +8,7 @@ Game
 * UE4: [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html), [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
 * [Spine](http://esotericsoftware.com/)
 * [Live2D](http://www.live2d.com/ja/): [tutorial](http://sites.cybernoids.jp/cubism2_kr/)
-* Logging: [chucho](https://github.com/mexicowilly/Chucho/wiki)
+* Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
 
 Setting Up Development Environment
 * Docker: [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
