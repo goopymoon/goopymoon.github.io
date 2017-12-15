@@ -20,9 +20,9 @@ NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
 * [node-config](https://www.npmjs.com/package/config)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
-* [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
-* [PM2](http://pm2.keymetrics.io/) - [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
+* Validation: [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
+, [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
+* [PM2](http://pm2.keymetrics.io/): [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
 Windows Batch file
@@ -30,7 +30,7 @@ Windows Batch file
 * [Batch files](http://www.robvanderwoude.com/batchfiles.php)
 * [PowerShell](http://www.robvanderwoude.com/powershell.php)
 
-DevOps
+Gaming Service Archetecture
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
 * [Elasticsearch Service](http://docs.aws.amazon.com/ko_kr/elasticsearch-service/latest/developerguide/aes-dg.pdf)
