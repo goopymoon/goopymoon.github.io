@@ -1,10 +1,10 @@
 ML
+* [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * [NLTK](http://www.nltk.org/)
 * [TACOTRON](https://arxiv.org/pdf/1703.10135.pdf)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
 Game
-* Unity: [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * UE4: [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html), [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
 * 2D: [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)-[tutorial](http://sites.cybernoids.jp/cubism2_kr/)
 * Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
