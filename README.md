@@ -16,6 +16,11 @@ Setting Up Development Environment
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * Logging: [chucho](https://github.com/mexicowilly/Chucho/wiki)
 
+Windows Batch file
+* [Using batch parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [Batch file command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
+* [Batch files](http://www.robvanderwoude.com/batchfiles.php)
+* [PowerShell](http://www.robvanderwoude.com/powershell.php)
+
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
 * [node-config](https://www.npmjs.com/package/config)
@@ -24,11 +29,6 @@ NodeJS
 , [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
 * [PM2](http://pm2.keymetrics.io/): [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
 * [JavaScript books - free to read online](http://exploringjs.com/)
-
-Windows Batch file
-* [Using batch parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [Batch file command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
-* [Batch files](http://www.robvanderwoude.com/batchfiles.php)
-* [PowerShell](http://www.robvanderwoude.com/powershell.php)
 
 Gaming Service Archetecture
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
