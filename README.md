@@ -1,13 +1,14 @@
-Game
-* [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
-* [Coding Style of UE](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
-* [chucho - logging library](https://github.com/mexicowilly/Chucho/wiki)
-* 2D animation tool: [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/) [tutorial](http://sites.cybernoids.jp/cubism2_kr/)
-
 ML
 * [NLTK](http://www.nltk.org/)
 * [TACOTRON](https://arxiv.org/pdf/1703.10135.pdf)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
+
+Applying ML to Game
+* [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
+
+Unreal Engine
+* [Coding Style of UE](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
+* [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
 
 Setting Up Development Environment
 * [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
@@ -15,6 +16,8 @@ Setting Up Development Environment
 * [atom](https://atom.io/)
 * [VSCode in Ubuntu](https://code.visualstudio.com/docs/setup/linux)
 * [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [chucho - logging library](https://github.com/mexicowilly/Chucho/wiki)
+* 2D animation tool: [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/) [tutorial](http://sites.cybernoids.jp/cubism2_kr/)
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
