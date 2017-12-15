@@ -11,7 +11,7 @@ Game
 
 Setting Up Development Environment
 * Docker: [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
-* VirtualBox: [Resize under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
+* VirtualBox: [Resizing under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
 * [atom](https://atom.io/)
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * Logging: [chucho](https://github.com/mexicowilly/Chucho/wiki)
