@@ -10,11 +10,11 @@ Game
 * [Live2D](http://www.live2d.com/ja/): [tutorial](http://sites.cybernoids.jp/cubism2_kr/)
 
 Setting Up Development Environment
-* [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
-* [Resize a VirtualBox guest Linux VDI Disk under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - Fix reference content: You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
+* Docker: [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
+* VirtualBox: [Resize under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - Fix reference content: You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
 * [atom](https://atom.io/)
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-* Logging Lib: [chucho](https://github.com/mexicowilly/Chucho/wiki)
+* Logging: [chucho](https://github.com/mexicowilly/Chucho/wiki)
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
