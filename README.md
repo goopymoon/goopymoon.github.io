@@ -24,7 +24,8 @@ NodeJS
 * [PM2](http://pm2.keymetrics.io/) - [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
-Windows Script
+Windows Batch file
+* [Using batch script](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true)
 * [Batch files](http://www.robvanderwoude.com/batchfiles.php)
 * [PowerShell](http://www.robvanderwoude.com/powershell.php)
 
