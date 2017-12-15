@@ -18,6 +18,7 @@ Setting Up Development Environment
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
+* http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [node-config](https://www.npmjs.com/package/config)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * Validation: [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
