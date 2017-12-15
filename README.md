@@ -16,6 +16,7 @@ Setting Up Development Environment
 * [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 NodeJS
+* [Current Node.js Document](https://nodejs.org/api/)
 * [node-config](https://www.npmjs.com/package/config)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
