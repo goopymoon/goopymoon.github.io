@@ -13,9 +13,8 @@ Setting Up Development Environment
 * [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 * [Resize a VirtualBox guest Linux VDI Disk under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - Fix reference content: You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
 * [atom](https://atom.io/)
-* [VSCode in Ubuntu](https://code.visualstudio.com/docs/setup/linux)
-* [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-* [chucho - logging library](https://github.com/mexicowilly/Chucho/wiki)
+* VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* Logging Lib: [chucho](https://github.com/mexicowilly/Chucho/wiki)
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
