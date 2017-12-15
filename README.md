@@ -15,7 +15,7 @@ Setting Up Development Environment
 * [atom](https://atom.io/)
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * Logging: [chucho](https://github.com/mexicowilly/Chucho/wiki)
-* Windows Batch file: [Using batch parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [Batch file command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm), [Batch files](http://www.robvanderwoude.com/batchfiles.php), [PowerShell](http://www.robvanderwoude.com/powershell.php)
+* Windows Batch file: [parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
