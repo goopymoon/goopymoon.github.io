@@ -25,6 +25,7 @@ NodeJS
 , [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
 * [nodemon](https://nodemon.io/)
 * [PM2](http://pm2.keymetrics.io/): [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
+* [how to benchmark](https://aws.amazon.com/ko/blogs/korea/how-to-loading-test-based-on-aws/)
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
 Gaming Service Archetecture
