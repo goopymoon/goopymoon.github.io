@@ -1,17 +1,19 @@
+Game
+* UE4: [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html), [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
+* 2D: [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)-[tutorial](http://sites.cybernoids.jp/cubism2_kr/)
+
+Unity Tips
+* https://www.raywenderlich.com/165809/using-streaming-assets-unity
+
 ML
 * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * [NLTK](http://www.nltk.org/)
 * [TACOTRON](https://arxiv.org/pdf/1703.10135.pdf)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
-Game
-* UE4: [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html), [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
-* 2D: [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)-[tutorial](http://sites.cybernoids.jp/cubism2_kr/)
-* Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
-
 Setting Up Development Environment
-* Docker: [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
-* [Vagrant](https://www.vagrantup.com/docs/index.html)
+* Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
+* [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/) + [Vagrant](https://www.vagrantup.com/docs/index.html)
 * VirtualBox: [Resizing under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
 * [atom](https://atom.io/)
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -48,3 +50,4 @@ Seminar & Webinar
 * https://www.slideshare.net/changjej/aws-daily-report
 * https://www.slideshare.net/julingks/kgc2014?next_slideshow=1
 * https://aws.amazon.com/ko/blogs/korea/category/webinar/
+
