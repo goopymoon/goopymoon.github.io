@@ -1,9 +1,7 @@
 Game
 * UE4: [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html), [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
-* 2D: [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)-[tutorial](http://sites.cybernoids.jp/cubism2_kr/)
-
-Unity Tips
 * https://www.raywenderlich.com/165809/using-streaming-assets-unity
+* 2D: [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)-[tutorial](http://sites.cybernoids.jp/cubism2_kr/)
 
 ML
 * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
