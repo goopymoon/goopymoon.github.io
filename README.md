@@ -22,9 +22,9 @@ Setting Up Development Environment
 * [atom](https://atom.io/)
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * Windows Batch file: [parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
-* [Ruby On Rails](http://rubyonrails.org/) for CMS(Content Management System)
-* [Django](https://www.djangoproject.com/) & [South](https://south.readthedocs.io/en/latest/) for DB migration
-* [Jenkins](https://jenkins-ci.org/)
+* CMS(Content Management System): [Ruby On Rails](http://rubyonrails.org/)
+* DB migration: [Django](https://www.djangoproject.com/) & [South](https://south.readthedocs.io/en/latest/)
+* Build automation: [Jenkins](https://jenkins-ci.org/)
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
