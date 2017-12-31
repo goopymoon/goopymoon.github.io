@@ -22,6 +22,8 @@ Setting Up Development Environment
 * [atom](https://atom.io/)
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * Windows Batch file: [parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
+* [Ruby On Rails](http://rubyonrails.org/)
+* [Jenkins](https://jenkins-ci.org/)
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
