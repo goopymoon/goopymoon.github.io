@@ -23,6 +23,7 @@ Setting Up Development Environment
 * VSCode: [Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * Windows Batch file: [parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
 * [Ruby On Rails](http://rubyonrails.org/)
+* Django South: https://south.readthedocs.io/en/latest/, http://www.djangopro.com/2011/01/django-database-migration-tool-south-explained/
 * [Jenkins](https://jenkins-ci.org/)
 
 NodeJS
