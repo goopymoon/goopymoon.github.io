@@ -29,7 +29,7 @@ NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [node-config](https://www.npmjs.com/package/config)
-* [winston](https://github.com/winstonjs/winston)
+* [winston](https://github.com/winstonjs/winston), [morgan](https://www.npmjs.com/package/morgan)
 * [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * Validation: [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
