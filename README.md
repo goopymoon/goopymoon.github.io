@@ -17,6 +17,7 @@ ML
 
 Setting Up Development Environment
 * Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
+* Lua: [luarocks](https://luarocks.org/),[luacheck](https://luarocks.org/modules/mpeterv/luacheck)
 * [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/) + [Vagrant](https://www.vagrantup.com/docs/index.html)
 * VirtualBox: [Resizing under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
 * Editor: [Atom](https://atom.io/), VSCode([Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint))
