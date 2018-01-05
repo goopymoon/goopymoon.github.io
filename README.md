@@ -31,6 +31,7 @@ NodeJS
 * [node-config](https://www.npmjs.com/package/config)
 * [winston](https://github.com/winstonjs/winston), [morgan](https://www.npmjs.com/package/morgan)
 * [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
+* [Kaiju](https://www.npmjs.com/package/kaiju)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * Validation: [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
 , [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
