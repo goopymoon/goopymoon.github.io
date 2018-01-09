@@ -20,6 +20,7 @@ Setting Up Development Environment
 * Redis & Lua: [luarocks](https://luarocks.org/),[luacheck](https://luarocks.org/modules/mpeterv/luacheck), [CJson](https://github.com/mpx/lua-cjson)
 * [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/) + [Vagrant](https://www.vagrantup.com/docs/index.html)
 * VirtualBox: [Resizing under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
+* [Vim setting](https://bluesh55.github.io/2016/10/09/vim-ide/)
 * Editor: [Atom](https://atom.io/), VSCode([Ubuntu](https://code.visualstudio.com/docs/setup/linux), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint))
 * Windows Batch file: [parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true), [command](https://academic.evergreen.edu/projects/biophysics/technotes/program/batch.htm)
 * CMS(Content Management System): [Ruby On Rails](http://rubyonrails.org/)
