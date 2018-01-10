@@ -38,6 +38,7 @@ NodeJS
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * Validation: [validate.js](https://validatejs.org/), [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
 , [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
+* test: [Jasmine](https://github.com/jasmine/jasmine/wiki)
 * [nodemon](https://nodemon.io/)
 * [PM2](http://pm2.keymetrics.io/): [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
 * [how to benchmark](https://aws.amazon.com/ko/blogs/korea/how-to-loading-test-based-on-aws/)
