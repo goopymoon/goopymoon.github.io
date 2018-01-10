@@ -36,7 +36,7 @@ NodeJS
 * [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 * [Kaiju](https://www.npmjs.com/package/kaiju)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* Validation: [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
+* Validation: [validate.js](https://validatejs.org/), [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
 , [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
 * [nodemon](https://nodemon.io/)
 * [PM2](http://pm2.keymetrics.io/): [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
