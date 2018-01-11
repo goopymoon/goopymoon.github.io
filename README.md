@@ -16,7 +16,7 @@ ML
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 
 Setting Up Development Environment
-* git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt)
+* git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
 * Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
 * Redis: [GUI tool](https://redisdesktop.com/), [Command](http://www.redisgate.com/redis/command/commands.php)
 * Lua: [luarocks](https://luarocks.org/),[luacheck](https://luarocks.org/modules/mpeterv/luacheck), [CJson](https://github.com/mpx/lua-cjson)
