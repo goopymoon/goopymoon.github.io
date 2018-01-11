@@ -32,6 +32,7 @@ NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [node-config](https://www.npmjs.com/package/config)
+* [promise](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [winston](https://github.com/winstonjs/winston), [morgan](https://www.npmjs.com/package/morgan)
 * [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi)
 * [Kaiju](https://www.npmjs.com/package/kaiju)
