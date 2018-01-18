@@ -31,6 +31,7 @@ Setting Up Development Environment
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
+* [Typescript](https://www.typescriptlang.org/docs/home.html)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [node-config](https://www.npmjs.com/package/config)
 * [promise](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
