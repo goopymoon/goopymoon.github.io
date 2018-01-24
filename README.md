@@ -31,7 +31,7 @@ Setting Up Development Environment
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
-* [Typescript](https://www.typescriptlang.org/docs/home.html)
+* [Typescript](https://www.typescriptlang.org/docs/home.html): [tutorial](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
 * [Redux](http://huns.me/development/1953)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [node-config](https://www.npmjs.com/package/config)
