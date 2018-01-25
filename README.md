@@ -31,7 +31,6 @@ Setting Up Development Environment
 
 NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
-* [Typescript](https://www.typescriptlang.org/docs/home.html): [tutorial](https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/)
 * [Redux](http://huns.me/development/1953)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [node-config](https://www.npmjs.com/package/config)
@@ -48,6 +47,9 @@ NodeJS
 * [PM2](http://pm2.keymetrics.io/): [Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
 * [how to benchmark](https://aws.amazon.com/ko/blogs/korea/how-to-loading-test-based-on-aws/)
 * [JavaScript books - free to read online](http://exploringjs.com/)
+
+[Typescript](https://www.typescriptlang.org/docs/home.html)
+* [tslint](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/)
 
 Gaming Service Archetecture
 * [Elasticsearch Service](http://docs.aws.amazon.com/ko_kr/elasticsearch-service/latest/developerguide/aes-dg.pdf)
