@@ -49,6 +49,7 @@ NodeJS
 * [JavaScript books - free to read online](http://exploringjs.com/)
 
 [Typescript](https://www.typescriptlang.org/docs/home.html)
+* [express example](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WmmQFxg6-i4)
 * [tslint](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/)
 
 Gaming Service Archetecture
