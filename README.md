@@ -51,6 +51,7 @@ NodeJS
 [Typescript](https://www.typescriptlang.org/docs/home.html)
 * [CRUD tutorial](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WmmQFxg6-i4)
 * [TypeScript 2.1: async/await for ES3/ES5](https://blog.mariusschulz.com/2016/12/09/typescript-2-1-async-await-for-es3-es5)
+* [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 * [tslint](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/)
 
 Gaming Service Archetecture
