@@ -1,3 +1,10 @@
 # Author details.
 goopymoon:
   name: goopymoon
+---
+# Layout.
+layout: post
+
+# Author.
+author: goopymoon
+---
