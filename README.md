@@ -2,8 +2,8 @@ Unreal
 * UE4: [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html), [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
 
 Unity
-* https://www.raywenderlich.com/165809/using-streaming-assets-unity
-* https://docs.unity3d.com/Manual/ExecutionOrder.html
+* [https://www.raywenderlich.com/165809/using-streaming-assets-unity](https://www.raywenderlich.com/165809/using-streaming-assets-unity)
+* [https://docs.unity3d.com/Manual/ExecutionOrder.html](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 
 2D animation
 * [Spine](http://esotericsoftware.com/)
@@ -64,8 +64,8 @@ Gaming Service Archetecture
 Seminar & Webinar 
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
-* https://www.slideshare.net/awskorea
-* https://www.slideshare.net/changjej/aws-daily-report
-* https://www.slideshare.net/julingks/kgc2014?next_slideshow=1
+* [https://www.slideshare.net/awskorea](https://www.slideshare.net/awskorea)
+* [https://www.slideshare.net/changjej/aws-daily-report](https://www.slideshare.net/changjej/aws-daily-report)
+* [https://www.slideshare.net/julingks/kgc2014?next_slideshow=1](https://www.slideshare.net/julingks/kgc2014?next_slideshow=1)
 * https://aws.amazon.com/ko/blogs/korea/category/webinar/
 
