@@ -64,6 +64,6 @@ Gaming Service Archetecture
 Seminar & Webinar 
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
-* [Daily report using AWS](https://www.slideshare.net/changjej/aws-daily-report)
-* [Data analysis using AWS](https://www.slideshare.net/julingks/kgc2014?next_slideshow=1)
+* [AWS를 활용하여 Daily Report 만들기](https://www.slideshare.net/changjej/aws-daily-report)
+* [KGC 2014 가볍고 유연하게 데이터 분석하기](https://www.slideshare.net/julingks/kgc2014?next_slideshow=1)
 
