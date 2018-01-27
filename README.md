@@ -29,8 +29,7 @@ Setting Up Development Environment
 * DB migration: [Django](https://www.djangoproject.com/) & [South](https://south.readthedocs.io/en/latest/)
 * CI(Continuous Integration): [Jenkins](https://jenkins-ci.org/)
 
-NodeJS
-* [Latest Node.js Document](https://nodejs.org/api/)
+[NodeJS](https://nodejs.org/api/)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * config: [node-config](https://www.npmjs.com/package/config)
 * logging: [winston](https://github.com/winstonjs/winston), [morgan](https://www.npmjs.com/package/morgan)
