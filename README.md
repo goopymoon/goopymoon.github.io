@@ -33,7 +33,7 @@ NodeJS
 * [Latest Node.js Document](https://nodejs.org/api/)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * [node-config](https://www.npmjs.com/package/config), [winston](https://github.com/winstonjs/winston), [morgan](https://www.npmjs.com/package/morgan), [lodash](https://lodash.com/)
-* test: [mocha](https://github.com/mochajs/mocha#sponsors), [chai](https://github.com/chaijs/chai), [Jasmine](https://github.com/jasmine/jasmine/wiki)
+* test: [mocha](https://github.com/mochajs/mocha#sponsors), [Jasmine](https://github.com/jasmine/jasmine/wiki), [Mocha vs. Jasmine](https://marcofranssen.nl/jasmine-vs-mocha/)
 * [promise](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html), [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi), [Async/Await](https://dev.to/geoffdavis/writing-asyncawait-middleware-in-express-6i0)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * Validation: [validate.js](https://validatejs.org/), [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
