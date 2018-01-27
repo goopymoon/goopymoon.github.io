@@ -1,10 +1,4 @@
----
-# Layout.
-layout: post
-
-# Author.
 author: goopymoon
----
 
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
