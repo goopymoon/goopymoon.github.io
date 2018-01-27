@@ -1,3 +1,11 @@
+---
+# Layout.
+layout: post
+
+# Author.
+author: goopymoon
+---
+
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
 * [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
