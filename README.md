@@ -4,6 +4,8 @@ Unreal
 
 Unity
 * [Using Streaming Assets in Unity](https://www.raywenderlich.com/165809/using-streaming-assets-unity)
+* [Assetbundle fundamentals](https://unity3d.com/kr/learn/tutorials/topics/best-practices/assetbundle-fundamentals)
+* [Resources folder](https://unity3d.com/kr/learn/tutorials/temas/best-practices/resources-folder)
 * [Execution Order of Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 
 2D animation
