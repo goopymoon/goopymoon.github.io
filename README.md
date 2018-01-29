@@ -36,7 +36,9 @@ Setting Up Development Environment
 * utils: [lodash](https://lodash.com/)
 * Validation: [validate.js](https://validatejs.org/), [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
 , [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
-* Architecture: [promise](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html), [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi), [Async/Await](https://dev.to/geoffdavis/writing-asyncawait-middleware-in-express-6i0), [Redux](http://huns.me/development/1953)
+* Architecture: [promise](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html), [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi), [Async/Await](https://dev.to/geoffdavis/writing-asyncawait-middleware-in-express-6i0)
+* React: [https://reactjs.org/docs/hello-world.html](https://reactjs.org/docs/hello-world.html)
+* Redux:[https://deminoth.github.io/redux/](https://deminoth.github.io/redux/), [http://huns.me/development/1953](http://huns.me/development/1953)
 * TDD: [mocha](https://github.com/mochajs/mocha#sponsors), [Jasmine](https://github.com/jasmine/jasmine/wiki), [Mocha vs. Jasmine](https://marcofranssen.nl/jasmine-vs-mocha/)
 * [ESLint](https://eslint.org/docs/user-guide/getting-started), [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [nodemon](https://nodemon.io/), [PM2](http://pm2.keymetrics.io/)([Simple Usage](https://cheese10yun.github.io/PM2/), [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/))
@@ -64,6 +66,6 @@ Gaming Service Archetecture
 Seminar & Webinar 
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
-* [AWS를 활용하여 Daily Report 만들기](https://www.slideshare.net/changjej/aws-daily-report)
+* [AWS를 활용하여 Daily Report 만들기](https://www.slideshare.net/changjej/aws-daily-report)
 * [KGC 2014 가볍고 유연하게 데이터 분석하기](https://www.slideshare.net/julingks/kgc2014?next_slideshow=1)
 
