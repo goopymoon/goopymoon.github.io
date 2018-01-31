@@ -16,7 +16,7 @@ Gamming AI
 * Behavior Tree: [Introduction](http://blog.renatopp.com/2014/07/25/an-introduction-to-behavior-trees-part-1/), [tool](https://archive.codeplex.com/?p=brainiac)
 * [Are Behavior Trees a Thing of the Past](https://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php)
 
-AI based on ML
+ML based AI
 * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * [NLTK](http://www.nltk.org/), [TACOTRON](https://arxiv.org/pdf/1703.10135.pdf)
 
