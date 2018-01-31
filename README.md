@@ -11,6 +11,9 @@ Unity
 2D animation
 * [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)([tutorial](http://sites.cybernoids.jp/cubism2_kr/))
 
+AI
+* [Behavior tree tool](https://archive.codeplex.com/?p=brainiac)
+
 ML
 * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * [NLTK](http://www.nltk.org/), [TACOTRON](https://arxiv.org/pdf/1703.10135.pdf)
