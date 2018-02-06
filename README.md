@@ -24,6 +24,7 @@ Setting Up Development Environment
 * git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
 * Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
 * Redis: [GUI tool](https://redisdesktop.com/), [Command](http://www.redisgate.com/redis/command/commands.php), [tips](https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis/)
+* Rabbitmq: [access control](https://www.rabbitmq.com/access-control.html)
 * Lua: [luarocks](https://luarocks.org/),[luacheck](https://luarocks.org/modules/mpeterv/luacheck), [CJson](https://github.com/mpx/lua-cjson)
 * [Using Docker Compose](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/) + [Vagrant](https://www.vagrantup.com/docs/index.html)
 * VirtualBox: [Resizing under Windows Host](http://derekmolloy.ie/resize-a-virtualbox-disk/) - You can install and run gparted in target Ubuntu. gparted does not work in Ubuntu 17.10. In this case don't forget "Before you log in, click on the gear next to login and switch to xorg".
