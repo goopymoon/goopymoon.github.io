@@ -31,7 +31,7 @@ Setting Up Development Environment
 * [Vim setting](https://bluesh55.github.io/2016/10/09/vim-ide/)
 * Editor: [Atom](https://atom.io/), VSCode([Ubuntu](https://code.visualstudio.com/docs/setup/linux, [Max tip](https://code.visualstudio.com/docs/getstarted/userinterface)), [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint))
 * Windows Batch file: [parameters](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/percent.mspx?mfr=true)
-* CMS(Content Management System): [Ruby On Rails](http://rubyonrails.org/)
+* DB migration: [Ruby On Rails](http://rubyonrails.org/)
 * ORM: [Django](https://www.djangoproject.com/) & [South](https://south.readthedocs.io/en/latest/)
 * CI(Continuous Integration): [Jenkins](https://jenkins-ci.org/)
 
