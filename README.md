@@ -55,6 +55,7 @@ Setting Up Development Environment
 * [6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 * [How to handle async functions inside constructors in TypeScript](https://rostacik.net/2017/04/23/how-to-handle-async-functions-inside-constructors-in-typescript/)
 * [tslint](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/)
+* [how to debug ts in vscode](https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a)
 
 Gaming Service Archetecture
 * [Elasticsearch Service](http://docs.aws.amazon.com/ko_kr/elasticsearch-service/latest/developerguide/aes-dg.pdf)
