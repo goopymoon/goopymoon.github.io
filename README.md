@@ -20,7 +20,7 @@ ML based AI
 * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 
 Smart contract
-* [Solidity tutorial: CrytoZombie](https://cryptozombies.io/en/course/)
+* [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 * [Hyperledger composer tutorial](https://hyperledger.github.io/composer/tutorials/tutorials)
 
 Setting Up Development Environment
