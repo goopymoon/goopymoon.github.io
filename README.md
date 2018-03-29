@@ -1,7 +1,7 @@
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
 * [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
-* [Skookumscript](http://skookumscript.com/unreal/)
+* [Skookumscript](http://skookumscript.com/unreal/): [review](https://www.quora.com/What-do-you-guys-think-of-skookumscript-programming-language)
 
 Unity
 * [Using Streaming Assets in Unity](https://www.raywenderlich.com/165809/using-streaming-assets-unity)
