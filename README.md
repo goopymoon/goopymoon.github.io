@@ -49,7 +49,7 @@ Setting Up Development Environment
 * logging: [winston](https://github.com/winstonjs/winston), [morgan](https://www.npmjs.com/package/morgan)
 * utils: [lodash](https://lodash.com/)
 * Validation: [validate.js](https://validatejs.org/), [Validator](https://github.com/chriso/validator.js), [express-validator](https://github.com/ctavan/express-validator)
-, [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966)
+* [Validating Data With JSON-Schema](https://code.tutsplus.com/series/validating-data-with-json-schema--cms-966), [FK](http://paulfitz.github.io/dataprotocols/json-table-schema/)
 * Architecture: [promise](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html), [Express vs. Koa vs. Hapi](https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi), [Async/Await](https://dev.to/geoffdavis/writing-asyncawait-middleware-in-express-6i0)
 * UI design: [React](https://reactjs.org/docs/design-principles.html) + [Redux](https://deminoth.github.io/redux/) ([http://huns.me/development/1953](http://huns.me/development/1953))
 * TDD: [mocha](https://github.com/mochajs/mocha#sponsors), [Jasmine](https://github.com/jasmine/jasmine/wiki), [Mocha vs. Jasmine](https://marcofranssen.nl/jasmine-vs-mocha/)
