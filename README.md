@@ -4,7 +4,6 @@ Unreal
 * [Android Setup](https://docs.unrealengine.com/latest/INT/Platforms/Android/GettingStarted/1/index.html)
 * Scirpt: [Skookumscript](http://skookumscript.com/unreal/)([review](https://www.quora.com/What-do-you-guys-think-of-skookumscript-programming-language)), [unreal-js](https://www.slideshare.net/crocuis/unrealjs-ue4-75499471)
 * [commandlet](https://api.unrealengine.com/udk/Three/CommandletHome.html)
-* [Assets and Packages](https://docs.unrealengine.com/en-us/Engine/Basics/AssetsAndPackages)
 
 Unity
 * [Using Streaming Assets in Unity](https://www.raywenderlich.com/165809/using-streaming-assets-unity)
