@@ -28,7 +28,6 @@ ML based AI
 
 Smart contract
 * [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
-* [Hyperledger composer tutorial](https://hyperledger.github.io/composer/tutorials/tutorials)
 
 Setting Up Development Environment
 * git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
