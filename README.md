@@ -43,6 +43,7 @@ Setting Up Development Environment
 * CI(Continuous Integration): [Jenkins](https://jenkins-ci.org/)
 
 [NodeJS](https://nodejs.org/api/)
+* [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 * http: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 * config: [node-config](https://www.npmjs.com/package/config)
 * logging: [winston](https://github.com/winstonjs/winston), [morgan](https://www.npmjs.com/package/morgan)
