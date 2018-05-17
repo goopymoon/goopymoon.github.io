@@ -16,6 +16,13 @@ Graphics
 * [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
 * [OpenGL tutorial](http://lazyfoo.net/tutorials/OpenGL/index.php)
 
+How to achieve animation style rendering
+* https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b
+* http://www.gdcvault.com/play/1022031/GuiltyGearXrd-s-Art-Style-The
+* https://forum.unity.com/threads/how-to-achieve-anime-but-non-toon-look.408148/
+* http://unrealengine.hatenablog.com/entry/2015/10/25/233253
+* https://github.com/ArneBezuijen/UnrealEngine
+
 2D animation
 * [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)([tutorial](http://sites.cybernoids.jp/cubism2_kr/))
 
