@@ -17,6 +17,7 @@ Graphics
 * [OpenGL tutorial](http://lazyfoo.net/tutorials/OpenGL/index.php)
 
 How to achieve animation style rendering
+* http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History
 * https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b
 * http://www.gdcvault.com/play/1022031/GuiltyGearXrd-s-Art-Style-The
 * https://forum.unity.com/threads/how-to-achieve-anime-but-non-toon-look.408148/
