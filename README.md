@@ -1,7 +1,7 @@
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
 * [UnrealVS Setup](http://api.unrealengine.com/KOR/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
-* Android license agreement problem: run "android.bat update sdk --no-ui --filter build-tools-25.0.0,android-25,extra-android-m2repository" and move %ANDROID_HOME%android-sdk-windows\platforms\android-25 folder into %ANDROID_HOME%\platforms folder.
+* Android license agreement problem of UE 4.19.3 release: run "android.bat update sdk --no-ui --filter build-tools-25.0.0,android-25,extra-android-m2repository" and move %ANDROID_HOME%android-sdk-windows\platforms\android-25 folder into %ANDROID_HOME%\platforms folder.
 * Scirpt: [Skookumscript](http://skookumscript.com/unreal/)([review](https://www.quora.com/What-do-you-guys-think-of-skookumscript-programming-language)), [unreal-js](https://www.slideshare.net/crocuis/unrealjs-ue4-75499471)
 * [commandlet](https://api.unrealengine.com/udk/Three/CommandletHome.html)
 * [Automation test](https://docs.unrealengine.com/en-us/Programming/Automation/TechnicalGuide)
