@@ -1,3 +1,5 @@
+How to setup codeworks for android in Windows 10.
+
 Run Setup.bat
 
 Install Engine\Extra\AndroidWorks\Win64\CodeWorksforAndroid-1R6u1-windows.exe (I installed here in D: drive).
