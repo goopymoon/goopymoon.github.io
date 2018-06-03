@@ -51,7 +51,7 @@ Setting Up Development Environment
 * DB migration: [Ruby On Rails](http://rubyonrails.org/), [Django](https://www.djangoproject.com/) & [South](https://south.readthedocs.io/en/latest/)
 * CI(Continuous Integration): [Jenkins](https://jenkins-ci.org/)
 
-[C++ 11 ~](https://github.com/jwvg0425/ModernCppStudy/wiki)
+[C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
 
 [NodeJS](https://nodejs.org/api/)
 * [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
