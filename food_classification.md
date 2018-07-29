@@ -1,6 +1,7 @@
 Image classification Using Keras
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://github.com/danielvarga/keras-finetuning
+
 Food classification
 * https://github.com/stratospark/food-101-keras
 * http://images.nvidia.com/content/APAC/events/ai-conference/resource/ai-for-research/FoodAI-Food-Image-Recognition-with-Deep-Learning.pdf
