@@ -98,3 +98,5 @@ Seminar & Webinar
 * [AWS를 활용하여 Daily Report 만들기](https://www.slideshare.net/changjej/aws-daily-report)
 * [KGC 2014 가볍고 유연하게 데이터 분석하기](https://www.slideshare.net/julingks/kgc2014?next_slideshow=1)
 
+Etc
+* [Food classification](https://github.com/goopymoon/goopymoon.github.io/blob/master/food_classification)
