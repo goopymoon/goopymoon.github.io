@@ -1,3 +1,6 @@
+Setup
+* http://technivore.org/posts/2016/02/27/windows-jupyter-three-ways.html
+
 Image classification Using Keras
 * https://keras.io/
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
