@@ -5,6 +5,7 @@ ML Basics
 * https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 * https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/
 * https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
+* [feature Standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 
 Image classification Using Keras
 * https://keras.io/
