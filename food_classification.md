@@ -23,3 +23,6 @@ Food classification
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537777/
 * https://arxiv.org/ftp/arxiv/papers/1606/1606.05675.pdf
 * [Food-101 – Mining Discriminative Components with Random Forests](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
+
+Preparing Data
+* https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
