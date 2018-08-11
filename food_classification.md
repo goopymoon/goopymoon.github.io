@@ -27,3 +27,4 @@ Food classification
 Preparing Data
 * https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
 * https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
+* https://github.com/philographer/crawl-google
