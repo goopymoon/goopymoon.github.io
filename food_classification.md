@@ -11,7 +11,7 @@ Image classification Using Keras
 * http://scikit-image.org/docs/dev/user_guide/data_types.html
 * https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 * https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
-* [Keras ImageDataGenerator](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
+* [Augmenting Image Data with Keras](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://github.com/danielvarga/keras-finetuning
 
