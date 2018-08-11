@@ -2,9 +2,9 @@ Setup
 * [Jupyter notebook in Windows](http://technivore.org/posts/2016/02/27/windows-jupyter-three-ways.html)
 
 ML Basics
-* https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
-* https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/
-* https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
+* [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
+* [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
+* [one-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [feature Standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 
 Image classification Using Keras
