@@ -5,12 +5,12 @@ ML Basics
 * https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 * https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/
 * https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
-* https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
-* https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 
 Image classification Using Keras
 * https://keras.io/
 * http://scikit-image.org/docs/dev/user_guide/data_types.html
+* https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+* https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 * [Keras ImageDataGenerator](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://github.com/danielvarga/keras-finetuning
