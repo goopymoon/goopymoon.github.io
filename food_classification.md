@@ -10,7 +10,7 @@ ML Basics
 
 Image classification Using Keras
 * https://keras.io/
-* [Keras ImageDataGenerator](http://3months.tistory.com/199), [usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
+* [Keras ImageDataGenerator](http://3months.tistory.com/199), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://github.com/danielvarga/keras-finetuning
 
