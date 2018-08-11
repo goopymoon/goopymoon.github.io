@@ -1,5 +1,5 @@
 Setup
-* http://technivore.org/posts/2016/02/27/windows-jupyter-three-ways.html
+* [Jupyter notebook in Windows](http://technivore.org/posts/2016/02/27/windows-jupyter-three-ways.html)
 
 ML Basics
 * https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
