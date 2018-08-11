@@ -3,6 +3,8 @@ Setup
 
 ML Basics
 * https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
+* https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+* https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 
 Image classification Using Keras
 * https://keras.io/
