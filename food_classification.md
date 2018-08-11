@@ -31,3 +31,4 @@ Preparing Data
 
 Calorie estimation
 * https://medium.com/syncedreview/deep-learning-based-food-calorie-estimation-method-in-dietary-assessment-1e76a2acee7
+* http://cs229.stanford.edu/proj2015/151_report.pdf
