@@ -2,7 +2,6 @@ Setup
 * [Jupyter notebook in Windows](http://technivore.org/posts/2016/02/27/windows-jupyter-three-ways.html)
 
 ML Basics
-* http://scikit-image.org/docs/dev/user_guide/data_types.html
 * https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 * https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/
 * https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
@@ -11,6 +10,7 @@ ML Basics
 
 Image classification Using Keras
 * https://keras.io/
+* http://scikit-image.org/docs/dev/user_guide/data_types.html
 * [Keras ImageDataGenerator](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://github.com/danielvarga/keras-finetuning
