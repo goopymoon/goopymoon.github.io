@@ -30,6 +30,7 @@ Preparing Data
 * https://github.com/philographer/crawl-google
 
 Calorie estimation
+* https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/44321.pdf
 * http://www.caloriemama.ai/#FoodRecognition
 * https://medium.com/syncedreview/deep-learning-based-food-calorie-estimation-method-in-dietary-assessment-1e76a2acee7
 * http://cs229.stanford.edu/proj2015/151_report.pdf
