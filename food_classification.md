@@ -2,6 +2,7 @@ Setup
 * http://technivore.org/posts/2016/02/27/windows-jupyter-three-ways.html
 
 ML Basics
+* https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
 * https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
 * https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 * https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
