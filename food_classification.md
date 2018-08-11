@@ -3,6 +3,7 @@ Setup
 
 ML Basics
 * https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
+* https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/
 * https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
 * https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 * https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
