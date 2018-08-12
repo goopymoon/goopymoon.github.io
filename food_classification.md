@@ -34,3 +34,10 @@ Calorie estimation
 * http://www.caloriemama.ai/#FoodRecognition
 * https://medium.com/syncedreview/deep-learning-based-food-calorie-estimation-method-in-dietary-assessment-1e76a2acee7
 * http://cs229.stanford.edu/proj2015/151_report.pdf
+
+Running on Devices
+* https://github.com/amir-abdi/keras_to_tensorflow
+* https://github.com/OmarAflak/Keras-Android-XOR
+* https://heartbeat.fritz.ai/deploying-pytorch-and-keras-models-to-android-with-tensorflow-mobile-a16a1fb83f2
+* https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32
+* https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
