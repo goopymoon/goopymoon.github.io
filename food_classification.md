@@ -10,6 +10,7 @@ ML Basics
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 * [one-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+* [Learning Deep Features for Discriminative Localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 
 Image classification Using Keras
 * https://keras.io/
