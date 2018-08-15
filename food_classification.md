@@ -8,9 +8,9 @@ Setup
 ML Basics
 * [Fundamentals of Deep Learning – Starting with Artificial Neural Network](https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
 * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
+* [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Hyperparameter](https://www.quora.com/What-are-hyperparameters-in-machine-learning)
 * [One-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
-* [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 * [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
