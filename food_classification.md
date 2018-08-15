@@ -6,16 +6,19 @@ Setup
 * [Download cuDNN v7.2.1 (August 7, 2018), for CUDA 9.0](https://developer.nvidia.com/rdp/cudnn-download)
 
 ML Basics
+* [Fundamentals of Deep Learning – Starting with Artificial Neural Network](https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
 * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
 * [One-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 * [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+* [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
 * [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 
 Image Classification Using Keras
 * https://keras.io/
+* [Optimizing Neural Networks using Keras](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
 * http://scikit-image.org/docs/dev/user_guide/data_types.html
 * https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 * https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
