@@ -14,18 +14,18 @@ ML Basics
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 * [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
 * [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 
 Image Classification Using Keras
 * https://keras.io/
-* [Optimizing Neural Networks using Keras](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
 * http://scikit-image.org/docs/dev/user_guide/data_types.html
-* https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
-* https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+* [Optimizing Neural Networks using Keras](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
+* [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
 * [Augmenting Image Data with Keras](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://github.com/danielvarga/keras-finetuning
+* https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+* https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 
 Food Classification
 * http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html
