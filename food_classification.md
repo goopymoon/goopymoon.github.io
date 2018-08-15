@@ -7,6 +7,7 @@ Setup
 
 ML Basics
 * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
+* [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 * [one-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
