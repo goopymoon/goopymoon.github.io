@@ -14,7 +14,6 @@ ML Basics
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 * [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 
 Image Classification Using Keras
 * https://keras.io/
@@ -26,6 +25,7 @@ Image Classification Using Keras
 * https://github.com/danielvarga/keras-finetuning
 * https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 * https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+* [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 
 Food Classification
 * http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html
