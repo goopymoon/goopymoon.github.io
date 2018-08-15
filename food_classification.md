@@ -11,6 +11,7 @@ ML Basics
 * [one-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 * [Learning Deep Features for Discriminative Localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
+* [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 
 Image classification Using Keras
 * https://keras.io/
