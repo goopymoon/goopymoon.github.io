@@ -7,12 +7,12 @@ Setup
 
 ML Basics
 * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
+* [One-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
 * [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
-* [one-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
-* [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* [Learning Deep Features for Discriminative Localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 * [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
+* [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+* [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 
 Image classification Using Keras
 * https://keras.io/
