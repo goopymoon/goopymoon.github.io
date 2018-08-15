@@ -14,7 +14,7 @@ ML Basics
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 * [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
 
-Image classification Using Keras
+Image Classification Using Keras
 * https://keras.io/
 * http://scikit-image.org/docs/dev/user_guide/data_types.html
 * https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
@@ -23,7 +23,7 @@ Image classification Using Keras
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 * https://github.com/danielvarga/keras-finetuning
 
-Food classification
+Food Classification
 * http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html
 * http://blog.stratospark.com/creating-a-deep-learning-ios-app-with-keras-and-tensorflow.html
 * http://images.nvidia.com/content/APAC/events/ai-conference/resource/ai-for-research/FoodAI-Food-Image-Recognition-with-Deep-Learning.pdf
@@ -36,7 +36,7 @@ Preparing Data
 * https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 * https://github.com/philographer/crawl-google
 
-Calorie estimation
+Calorie Estimation
 * https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/44321.pdf
 * http://www.caloriemama.ai/#FoodRecognition
 * https://medium.com/syncedreview/deep-learning-based-food-calorie-estimation-method-in-dietary-assessment-1e76a2acee7
