@@ -17,6 +17,7 @@ Graphics
 * [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
 * [OpenGL tutorial](http://lazyfoo.net/tutorials/OpenGL/index.php)
 * [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
+* [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
 
 How to achieve animation style rendering
 * http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History
