@@ -31,7 +31,7 @@ How to achieve animation style rendering
 MMD
 * http://www.geocities.jp/higuchuu4/index_e.htm
 * http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html
-* [MMD in unity](https://www.slideshare.net/flashscope/mmd-unity1)
+* [Unity에서 MMD ](https://www.slideshare.net/flashscope/mmd-unity1)
 * https://bowlroll.net/file/4576
 
 2D animation
