@@ -31,6 +31,7 @@ How to achieve animation style rendering
 MMD
 * http://www.geocities.jp/higuchuu4/index_e.htm
 * http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html
+* https://bowlroll.net/file/4576
 
 2D animation
 * [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)([tutorial](http://sites.cybernoids.jp/cubism2_kr/))
