@@ -9,6 +9,7 @@ ML
   * [CUDA Toolkit 9.0 Downloads - you must download base version](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
   * [Download cuDNN v7.2.1 (August 7, 2018), for CUDA 9.0](https://developer.nvidia.com/rdp/cudnn-download)
 * Fundamentals
+  * http://scikit-image.org/docs/dev/user_guide/data_types.html
   * [Fundamentals of Deep Learning – Starting with Artificial Neural Network](https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
   * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
   * [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
