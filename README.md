@@ -5,7 +5,7 @@ Game
   * [OpenGL tutorial](http://lazyfoo.net/tutorials/OpenGL/index.php)
   * [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
   * [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
-* How to achieve animation style rendering
+* Animation style rendering
   * http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History
   * https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b
   * http://www.gdcvault.com/play/1022031/GuiltyGearXrd-s-Art-Style-The
