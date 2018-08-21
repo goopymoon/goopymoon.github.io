@@ -28,12 +28,6 @@ How to achieve animation style rendering
 * https://github.com/ArneBezuijen/UnrealEngine
 * http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf
 
-MMD
-* http://www.geocities.jp/higuchuu4/index_e.htm
-* http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html
-* [Unity에서 MMD 사용하기](https://www.slideshare.net/flashscope/mmd-unity1)
-* https://bowlroll.net/file/4576
-
 2D animation
 * [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)([tutorial](http://sites.cybernoids.jp/cubism2_kr/))
 
