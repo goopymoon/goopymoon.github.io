@@ -14,6 +14,7 @@ ML Basics
 * [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 * [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+* [Batch normalization](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
 
 Image Classification Using Keras
 * https://keras.io/
