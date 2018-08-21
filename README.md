@@ -41,6 +41,5 @@ ML
   * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
   * [Batch normalization](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
   * [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
-* Application
-  * [Vocaloid](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
-  * [Food classification](https://github.com/goopymoon/goopymoon.github.io/blob/master/food_classification.md)
+* [Vocaloid](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
+* [Food classification](https://github.com/goopymoon/goopymoon.github.io/blob/master/food_classification.md)
