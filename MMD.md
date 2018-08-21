@@ -11,4 +11,4 @@ Tutorial
 * [Blender](http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html)
 * [Unity](https://www.slideshare.net/flashscope/mmd-unity1)
 * [UE4](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
-** [IM4U](https://github.com/bm9/IM4U/tree/4.10.X)
+* * [IM4U](https://github.com/bm9/IM4U/tree/4.10.X)
