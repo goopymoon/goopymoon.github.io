@@ -1,5 +1,26 @@
 Game
 * [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
+* Graphics
+  * [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
+  * [OpenGL tutorial](http://lazyfoo.net/tutorials/OpenGL/index.php)
+  * [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
+  * [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
+* How to achieve animation style rendering
+  * http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History
+  * https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b
+  * http://www.gdcvault.com/play/1022031/GuiltyGearXrd-s-Art-Style-The
+  * https://forum.unity.com/threads/how-to-achieve-anime-but-non-toon-look.408148/
+  * http://unrealengine.hatenablog.com/entry/2015/10/25/233253
+  * https://github.com/ArneBezuijen/UnrealEngine
+  * http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf
+* Gamming AI
+  * [FSM vs. Behavior tree](https://web.stanford.edu/class/cs123/lectures/CS123_lec08_HFSM_BT.pdf): [2009 ndc](https://www.slideshare.net/yonghakim900/2009-ndc)
+  * Behavior Tree: [Introduction](http://blog.renatopp.com/2014/07/25/an-introduction-to-behavior-trees-part-1/), [tool](https://archive.codeplex.com/?p=brainiac)
+  * [Are Behavior Trees a Thing of the Past](https://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php)
+* ML based AI
+  * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
+* Smart contract
+  * [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
 
 ML 
