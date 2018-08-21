@@ -1,5 +1,7 @@
 Required tools
-* http://www.geocities.jp/higuchuu4
+* [MikuMikuDance](http://www.geocities.jp/higuchuu4)
+* [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
+* [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
 
 Assets
 * https://bowlroll.net/file/4576
