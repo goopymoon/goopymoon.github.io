@@ -13,34 +13,8 @@ Unity
 * [Using Streaming Assets in Unity](https://www.raywenderlich.com/165809/using-streaming-assets-unity), [Assetbundle fundamentals](https://unity3d.com/kr/learn/tutorials/topics/best-practices/assetbundle-fundamentals), [Resources folder](https://unity3d.com/kr/learn/tutorials/temas/best-practices/resources-folder)
 * [Execution Order of Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 
-Graphics
-* [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
-* [OpenGL tutorial](http://lazyfoo.net/tutorials/OpenGL/index.php)
-* [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
-* [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
-
-How to achieve animation style rendering
-* http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History
-* https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b
-* http://www.gdcvault.com/play/1022031/GuiltyGearXrd-s-Art-Style-The
-* https://forum.unity.com/threads/how-to-achieve-anime-but-non-toon-look.408148/
-* http://unrealengine.hatenablog.com/entry/2015/10/25/233253
-* https://github.com/ArneBezuijen/UnrealEngine
-* http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf
-
 2D animation
 * [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)([tutorial](http://sites.cybernoids.jp/cubism2_kr/))
-
-Gamming AI
-* [FSM vs. Behavior tree](https://web.stanford.edu/class/cs123/lectures/CS123_lec08_HFSM_BT.pdf): [2009 ndc](https://www.slideshare.net/yonghakim900/2009-ndc)
-* Behavior Tree: [Introduction](http://blog.renatopp.com/2014/07/25/an-introduction-to-behavior-trees-part-1/), [tool](https://archive.codeplex.com/?p=brainiac)
-* [Are Behavior Trees a Thing of the Past](https://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php)
-
-ML based AI
-* [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
-
-Smart contract
-* [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 
 Setting Up Development Environment
 * git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
