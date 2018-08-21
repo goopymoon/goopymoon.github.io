@@ -1,4 +1,4 @@
-* http://www.geocities.jp/higuchuu4/index_e.htm
+* http://www.geocities.jp/higuchuu4
 * http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html
 * https://bowlroll.net/file/4576
 * [How to run in Unity](https://www.slideshare.net/flashscope/mmd-unity1)
