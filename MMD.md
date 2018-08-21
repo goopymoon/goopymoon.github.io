@@ -18,3 +18,5 @@ Engine Integration
 
 Shader
 * https://github.com/ray-cast/ray-mmd
+
+[AI powered motion capture](https://getrad.co/)
