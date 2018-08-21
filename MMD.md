@@ -20,6 +20,7 @@ Shader
 * https://github.com/ray-cast/ray-mmd
 
 Animation
+* [Music-Driven Dance Generation with Neural Networks](https://omid.al/projects/GrooveNet.html)
 * [Sequential Deep Learning for Dancing Motion Generation](http://www.osaka-kyoiku.ac.jp/~challeng/SIG-Challenge-046/SIG-Challenge-046-08.pdf)
 * [Deep-learning neural network creates its own interpretive dance](https://www.extremetech.com/extreme/227287-deep-learning-neural-network-creates-its-own-interpretive-dance)
 * http://on-demand.gputechconf.com/gtc/2017/presentation/s7289-paul-kruszewski-human-motion-capture-from-2d-video-using-cloud-based-cnns.pdf
