@@ -20,6 +20,7 @@ Shader
 * https://github.com/ray-cast/ray-mmd
 
 Animation
+* http://on-demand.gputechconf.com/gtc/2017/presentation/s7289-paul-kruszewski-human-motion-capture-from-2d-video-using-cloud-based-cnns.pdf
 * [Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html)
 * [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
   * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
