@@ -30,7 +30,6 @@
   * Fundamentals
     * [Data Types](http://scikit-image.org/docs/dev/user_guide/data_types.html)
     * [Fundamentals of Deep Learning – Starting with Artificial Neural Network](https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
-    * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
     * [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
     * [Hyperparameter](https://www.quora.com/What-are-hyperparameters-in-machine-learning)
     * [One-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
@@ -39,5 +38,5 @@
     * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
     * [Batch normalization](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
     * [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
-  * [CNN Extended](https://github.com/goopymoon/goopymoon.github.io/blob/master/CNN.md)
+  * [CNN](https://github.com/goopymoon/goopymoon.github.io/blob/master/CNN.md)
 * [Vocaloid](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
