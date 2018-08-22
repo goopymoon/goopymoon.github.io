@@ -20,7 +20,7 @@
 * Smart contract
   * [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
-* ML 
+* Deep Learning 
   * Setup
     * [Tensorflow](https://mjgim.icim.or.kr/2017/04/30/tensorflow.html)
     * [Keras](https://keras.io/#installation)
