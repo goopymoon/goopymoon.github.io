@@ -1,4 +1,5 @@
 Image Classification
+* [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
 * [Optimizing Neural Networks using Keras](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
 * [Augmenting Image Data with Keras](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
 * https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
