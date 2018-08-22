@@ -13,7 +13,6 @@ Tutorial
 Engine Integration
 * [Unity](https://www.slideshare.net/flashscope/mmd-unity1)
 * [UE4](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
-  * [IM4U Plugin](https://github.com/bm9/IM4U/tree/4.10.X)
   * [IM4U Plugin Src](https://github.com/bm9/UnrealEngine_IM4UPlugin)
 
 Shader
