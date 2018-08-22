@@ -1,4 +1,3 @@
-Game
 * [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
 * Graphics
   * [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
