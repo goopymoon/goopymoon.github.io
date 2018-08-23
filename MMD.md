@@ -5,6 +5,8 @@ Required tools
   * https://www.youtube.com/watch?v=UX4II4sy1IQ
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
+* [Vocaloid by Yamaha](http://www.vocaloid.com/)
+* [歌声合成ツールUTAU](http://utau-synth.com/)
 
 Assets
 * https://bowlroll.net/file/4576
