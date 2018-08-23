@@ -9,6 +9,7 @@ Required tools
 Assets
 * https://bowlroll.net/file/4576
 * https://soundcloud.com/
+* http://kasaneteto.jp/index_ent.html
 
 Tutorial
 * [3D初心者が作ったMikuMikuDance初心者向け講座](http://www.nicovideo.jp/mylist/7374894)
