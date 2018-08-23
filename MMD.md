@@ -2,6 +2,7 @@ Required tools
 * [MikuMikuDance](http://www.geocities.jp/higuchuu4)
   * https://www.youtube.com/watch?v=eRp2dYzQVJs
   * https://www.youtube.com/watch?v=pAGT9pD_3Jg
+  * https://www.youtube.com/watch?v=UX4II4sy1IQ
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
 
