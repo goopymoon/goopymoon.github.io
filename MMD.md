@@ -20,7 +20,7 @@ Tutorial
 Engine Integration
 * [Unity](https://www.slideshare.net/flashscope/mmd-unity1)
 * [UE4](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
-  * [IM4U Plugin Src](https://github.com/bm9/UnrealEngine_IM4UPlugin) - Not work above UE4 ver. 4.16
+  * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - I testing version 4.20.1 patch before pull request
 
 Shader
 * https://github.com/ray-cast/ray-mmd
