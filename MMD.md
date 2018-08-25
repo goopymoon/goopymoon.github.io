@@ -16,6 +16,7 @@ Assets
 * http://kasaneteto.jp/index_ent.html
 
 Tutorial
+* [MMD 가이드](http://mmdguide.tistory.com/)
 * [3D初心者が作ったMikuMikuDance初心者向け講座](http://www.nicovideo.jp/mylist/7374894)
 * [Blender](http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html)
 
