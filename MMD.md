@@ -4,6 +4,7 @@ Required tools
   * https://www.youtube.com/watch?v=pAGT9pD_3Jg
   * https://www.youtube.com/watch?v=UX4II4sy1IQ
 * [MMD4Mecanim](http://stereoarts.jp/)
+  * pmx2fbx.exe is missing in the current version.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
 * [Vocaloid by Yamaha](http://www.vocaloid.com/)
