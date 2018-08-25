@@ -20,7 +20,9 @@ Tutorial
 
 Engine Integration
 * [Unity](https://www.slideshare.net/flashscope/mmd-unity1)
-* [UE4](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
+* UE4
+  * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
+  * [언리얼에 MMD 불러오기](http://blog.naver.com/PostView.nhn?blogId=lsb522&logNo=220943266529)
   * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - I'm testing patch for version 4.20.1 before pull request
 
 Shader
