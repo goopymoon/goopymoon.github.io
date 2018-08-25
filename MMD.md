@@ -7,6 +7,7 @@ Required tools
   * pmx2fbx.exe is missing in the current version.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
+* [MMD周辺ライブラリ](https://archive.fo/DrEcB)
 * [Vocaloid by Yamaha](http://www.vocaloid.com/)
 * [歌声合成ツールUTAU](http://utau-synth.com/)
 
