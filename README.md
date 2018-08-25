@@ -1,4 +1,4 @@
-Technology stack for making intelligent vocaloid
+My personal interest is making an intelligent vocaloid.
 
 * [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
 * Graphics
