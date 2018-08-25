@@ -4,7 +4,7 @@ Required tools
   * https://www.youtube.com/watch?v=pAGT9pD_3Jg
   * https://www.youtube.com/watch?v=UX4II4sy1IQ
 * [MMD4Mecanim](http://stereoarts.jp/)
-  * pmx2fbx.exe is missing in the current version.
+  * pmx2fbx.exe is in Unity the package.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
 * [MMD周辺ライブラリ](https://archive.fo/DrEcB)
@@ -27,7 +27,9 @@ Engine Integration
 * UE4
   * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
     * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - I'm testing patch for version 4.20.1 before pull request
+    * Distributed MMBridge_071_Alembic does not produce vmd file. 64 bit version crashes and 32 bit version produces file of size 1KB.
   * [언리얼에 MMD 불러오기](http://blog.naver.com/PostView.nhn?blogId=lsb522&logNo=220943266529)
+  * [Unreal Engine4でMMDモデルを使ってみた（前編）](https://creator.game.cyberagent.co.jp/?p=3794)
 
 Shader
 * https://github.com/ray-cast/ray-mmd
