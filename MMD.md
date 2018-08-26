@@ -36,11 +36,10 @@ Engine Integration
   * Using pmx2fbx 
     * [언리얼에 MMD 불러오기](http://blog.naver.com/PostView.nhn?blogId=lsb522&logNo=220943266529)
     * [Unreal Engine4でMMDモデルを使ってみた（前編）](https://creator.game.cyberagent.co.jp/?p=3794)
+      * Material must be handled mannually according to generated model_name.xml file. cartoon effect must be considered too.
     * [Unreal Engine4でMMDモデルを使ってみた（後編）](https://creator.game.cyberagent.co.jp/?p=3795)
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
     * [Unreal Engine4でMMDモデルをVRで見てみた](https://creator.game.cyberagent.co.jp/?p=3916)
-    * Material must be handled mannually according to generated model_name.xml file. cartoon effect must be considered too.
-  * Net covenient compared to the Unity environment
 
 Shader
 * https://github.com/ray-cast/ray-mmd
