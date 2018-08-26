@@ -32,7 +32,7 @@ Engine Integration
   * Using IM4U
     * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
       * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - I'm testing patch for version 4.20.1 before pull request
-      * Distributed MMBridge_071_Alembic does not produce vmd file. 64 bit version crashes and 32 bit version produces file of size 1KB.
+      * Distributed MMBridge_071_Alembic requires MikuMikuDance Ver.9.26. With current MMD version MMBridge does not produce vmd file. 64 bit version crashes and 32 bit version produces file of size 1KB.
       * Automatically generated material has no cartoon effect which is originally exists.
   * Using pmx2fbx 
     * [Unreal Engine4でMMDモデルを使ってみた（前編）](https://creator.game.cyberagent.co.jp/?p=3794)
