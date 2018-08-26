@@ -34,12 +34,12 @@ Engine Integration
       * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - I'm testing patch for version 4.20.1 before pull request
       * Distributed MMBridge_071_Alembic requires MikuMikuDance Ver.9.26. With current MMD version MMBridge does not produce vmd file. 64 bit version crashes and 32 bit version produces file of size 1KB.
       * Automatically generated material has no cartoon effect which is originally exists.
+    * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
   * Using pmx2fbx 
     * [Unreal Engine4でMMDモデルを使ってみた（前編）](https://creator.game.cyberagent.co.jp/?p=3794)
       * Material must be handled mannually according to generated model_name.xml file. cartoon effect must be considered too.
       * Morph target information is missing
     * [Unreal Engine4でMMDモデルを使ってみた（後編）](https://creator.game.cyberagent.co.jp/?p=3795)
-    * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
     * [Unreal Engine4でMMDモデルをVRで見てみた](https://creator.game.cyberagent.co.jp/?p=3916)
 
 Shader
