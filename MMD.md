@@ -35,9 +35,9 @@ Engine Integration
     * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
       * [IM4U Plugin](https://github.com/bm9/UnrealEngine_IM4UPlugin) - I made a pull request of patch for version 4.20.1
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4.PNG){: width="30%" height="30%"}
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_base.PNG){: width="40%" height="40%"}
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_lum.PNG){: width="40%" height="40%"}
+        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4.PNG)
+        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_base.PNG)
+        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_lum.PNG)
       * [MMDBridge](https://github.com/uimac/mmdbridge) - I fixed vmd export bug fix of version 931. Pull request is waiting for approval.
       * Automatically generated material has no cartoon effect which is originally exists.
   * Using pmx2fbx 
