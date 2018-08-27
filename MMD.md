@@ -8,6 +8,7 @@ Required tools
   * pmx2fbx.exe is in Unity the package.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
+* [Blender_mmd_tools](https://github.com/sugiany/blender_mmd_tools)
 * [MMD周辺ライブラリ](https://archive.fo/DrEcB)
 * [Vocaloid by Yamaha](http://www.vocaloid.com/)
 * [歌声合成ツールUTAU](http://utau-synth.com/)
