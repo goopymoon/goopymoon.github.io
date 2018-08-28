@@ -36,8 +36,6 @@ Engine Integration
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
       * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - Original plugin's development is discontinued. vmd import does not work. I made a patch for version 4.20.1 in my forked repository. 
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4_subsurface.PNG)
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_base.PNG)
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_lum.PNG)
       * [MMDBridge](https://github.com/uimac/mmdbridge) - I fixed vmd export bug fix of version 931. Pull request is waiting for approval.
       * Automatically generated material has no cartoon effect which is originally exists.
   * Using pmx2fbx 
