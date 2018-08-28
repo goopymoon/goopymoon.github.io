@@ -11,8 +11,8 @@ Technology stack for intelligent vocaloid beyond game.
     * [Unity トゥーンシェーディングを使った３Dアニメ表現](https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b)
     * [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](http://www.gdcvault.com/play/1022031/GuiltyGearXrd-s-Art-Style-The)
     * [Unity forum: How to achieve anime, but non toon look](https://forum.unity.com/threads/how-to-achieve-anime-but-non-toon-look.408148/)
-    * [UE4 トゥーンシェーディングとアウトラインによるセルルック表現のためにやったこと](http://unrealengine.hatenablog.com/entry/2015/10/25/233253)
     * [UE4 キャラを可愛く見せるマテリアル作成のコツ](http://unrealengine.hatenablog.com/entry/2015/05/09/220416);
+    * [UE4 トゥーンシェーディングとアウトラインによるセルルック表現のためにやったこと](http://unrealengine.hatenablog.com/entry/2015/10/25/233253)
     * [UE4 ToonShading repository](https://github.com/ArneBezuijen/UnrealEngine)
     * [Achieving high quality Anime style rendering on Unity](http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf)
 * Gamming AI
