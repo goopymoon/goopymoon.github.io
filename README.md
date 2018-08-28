@@ -15,6 +15,7 @@ Technology stack for intelligent vocaloid beyond game.
     * [UE4 キャラを可愛く見せるマテリアル作成のコツ](http://unrealengine.hatenablog.com/entry/2015/05/09/220416);
     * [UE4 トゥーンシェーディングとアウトラインによるセルルック表現のためにやったこと](http://unrealengine.hatenablog.com/entry/2015/10/25/233253)
       * [UE4 ToonShading repository](https://github.com/ArneBezuijen/UnrealEngine)
+    * [UE4 Cel Shading Post Process](https://wiki.unrealengine.com/Cel_Shading_Post_Process)
 * Gamming AI
   * [FSM vs. Behavior tree](https://web.stanford.edu/class/cs123/lectures/CS123_lec08_HFSM_BT.pdf): [2009 ndc](https://www.slideshare.net/yonghakim900/2009-ndc)
   * Behavior Tree: [Introduction](http://blog.renatopp.com/2014/07/25/an-introduction-to-behavior-trees-part-1/), [tool](https://archive.codeplex.com/?p=brainiac)
