@@ -13,7 +13,7 @@ Technology stack for intelligent vocaloid beyond game.
     * [Unity forum: How to achieve anime, but non toon look](https://forum.unity.com/threads/how-to-achieve-anime-but-non-toon-look.408148/)
     * [UE4 キャラを可愛く見せるマテリアル作成のコツ](http://unrealengine.hatenablog.com/entry/2015/05/09/220416);
     * [UE4 トゥーンシェーディングとアウトラインによるセルルック表現のためにやったこと](http://unrealengine.hatenablog.com/entry/2015/10/25/233253)
-    * [UE4 ToonShading repository](https://github.com/ArneBezuijen/UnrealEngine)
+      * [UE4 ToonShading repository](https://github.com/ArneBezuijen/UnrealEngine)
     * [Achieving high quality Anime style rendering on Unity](http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf)
 * Gamming AI
   * [FSM vs. Behavior tree](https://web.stanford.edu/class/cs123/lectures/CS123_lec08_HFSM_BT.pdf): [2009 ndc](https://www.slideshare.net/yonghakim900/2009-ndc)
