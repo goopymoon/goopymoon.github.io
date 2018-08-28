@@ -49,6 +49,8 @@ Engine Integration
   * Using Bledner & mmd tools
     * [The beginer's guide to Blender](https://www.blenderhd.com/wp-content/uploads/2015/08/BeginnersGuideToBlender.pdf)
     * [MMD to Blender tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-to-Blender-2-79-Tutorial-718326270)
+    * [MMD in Blender basic posing tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-in-Blender-Basic-Posing-Tutorial-589157109)
+    * [MMD in Blender importing motion tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-in-Blender-Importing-Motions-Tutorial-650932100)
 
 Shader
 * https://github.com/ray-cast/ray-mmd
