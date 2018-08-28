@@ -34,7 +34,7 @@ Engine Integration
   * Using IM4U
     * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
-      * [IM4U Plugin](https://github.com/bm9/UnrealEngine_IM4UPlugin) - I made a pull request of patch for version 4.20.1
+      * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - Original plugin's development is discontinued. vmd import does not work. I made a patch for version 4.20.1 in my forked repository. 
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4.PNG)
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_base.PNG)
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_lum.PNG)
