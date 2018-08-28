@@ -46,6 +46,8 @@ Engine Integration
       * Morph target information is missing
     * [Unreal Engine4でMMDモデルを使ってみた（後編）](https://creator.game.cyberagent.co.jp/?p=3795)
     * [Unreal Engine4でMMDモデルをVRで見てみた](https://creator.game.cyberagent.co.jp/?p=3916)
+  * Using Bledner & mmd tools
+    * [MMD to Blender tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-to-Blender-2-79-Tutorial-718326270)
 
 Shader
 * https://github.com/ray-cast/ray-mmd
