@@ -8,7 +8,7 @@ Technology stack for intelligent vocaloid beyond game.
   * [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
   * Animation style rendering
     * [Style in Rendering: The History and Technique Behind AFRO SAMURAI](http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History)
-    * [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](http://www.gdcvault.com/play/1022031/GuiltyGearXrd-s-Art-Style-The)
+    * [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](http://www.ggxrd.com/Motomura_Junya_GuiltyGearXrd.pdf)
     * [Unity トゥーンシェーディングを使った３Dアニメ表現](https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b)
     * [Unity forum: How to achieve anime, but non toon look](https://forum.unity.com/threads/how-to-achieve-anime-but-non-toon-look.408148/)
     * [Achieving high quality Anime style rendering on Unity](http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf)
