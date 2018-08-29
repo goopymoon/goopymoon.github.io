@@ -6,7 +6,7 @@ Required tools
   * [PMX file format](https://gist.github.com/ulrikdamm/8274171)
   * [VMD file format memo](https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d), [VMD file format memo 2](https://blog.goo.ne.jp/torisu_tetosuki/e/2a2cb5c2de7563c5e6f20b19e1fe6139)
 * [MMD4Mecanim](http://stereoarts.jp/)
-  * pmx2fbx.exe is in Unity the package.
+  * pmx2fbx.exe is in the Unity package.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
 * [Blender_mmd_tools](https://github.com/sugiany/blender_mmd_tools)
