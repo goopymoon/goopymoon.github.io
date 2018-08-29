@@ -4,6 +4,7 @@ Required tools
   * https://www.youtube.com/watch?v=pAGT9pD_3Jg
   * https://www.youtube.com/watch?v=UX4II4sy1IQ
   * [PMX file format](https://gist.github.com/ulrikdamm/8274171)
+  * [VMD file format](https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d)
 * [MMD4Mecanim](http://stereoarts.jp/)
   * pmx2fbx.exe is in Unity the package.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
