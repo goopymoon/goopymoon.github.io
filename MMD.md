@@ -4,8 +4,9 @@ Required tools
   * https://www.youtube.com/watch?v=pAGT9pD_3Jg
   * https://www.youtube.com/watch?v=UX4II4sy1IQ
   * [PMX file format](https://gist.github.com/ulrikdamm/8274171)
+  * [VMD file format memo](https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d), [VMD file format memo 2](https://blog.goo.ne.jp/torisu_tetosuki/e/2a2cb5c2de7563c5e6f20b19e1fe6139)
 * [MMD4Mecanim](http://stereoarts.jp/)
-  * pmx2fbx.exe is in Unity the package.
+  * pmx2fbx.exe is in the Unity package.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
 * [MikuMikuMoving](https://sites.google.com/site/mikumikumoving/)
 * [Blender_mmd_tools](https://github.com/sugiany/blender_mmd_tools)
@@ -34,10 +35,9 @@ Engine Integration
   * Using IM4U
     * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
-      * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - Original plugin's development is discontinued. vmd import does not work. I made a patch for version 4.20.1 in my forked repository. 
+      * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - Original plugin's development is discontinued. I made a patch for version 4.20.1 in my forked repository. 
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4_subsurface.PNG)
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_base.PNG)
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_material_lum.PNG)
+        * Unlike pmx (pmx is UTF16 or UTF8) vmd file is shift-jis format. This cause problem during mapping bone names if locale of Windows OS is not Japanese. This is the reason why vmd import works well only in Japanese Windows.
       * [MMDBridge](https://github.com/uimac/mmdbridge) - I fixed vmd export bug fix of version 931. Pull request is waiting for approval.
       * Automatically generated material has no cartoon effect which is originally exists.
   * Using pmx2fbx 
