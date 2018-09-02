@@ -37,10 +37,10 @@ Engine Integration
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
       * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - Original plugin's development is discontinued. I made a patch for version 4.20.1 in my forked repository. 
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4_subsurface.PNG)
+        * Automatically generated material drops cartoon effects those originally exist.
         * Unlike pmx (pmx is UTF16 or UTF8) vmd file is shift-jis format. This cause problem during mapping bone names if locale of Windows OS is not Japanese. This is the reason why vmd import works well only in Japanese Windows.
       * [MMDBridge](https://github.com/uimac/mmdbridge) - I fixed vmd export bug fix of version 931. Pull request is waiting for approval.
         * [View imported animation sequence in UE4](https://slack-files.com/T02UEJHJV-FCKQA2JTC-7d3ca6511f)
-      * Automatically generated material has no cartoon effect which is originally exists.
   * Using pmx2fbx 
     * [Unreal Engine4でMMDモデルを使ってみた（前編）](https://creator.game.cyberagent.co.jp/?p=3794)
       * Material must be handled mannually according to generated model_name.xml file. cartoon effect must be considered too.
