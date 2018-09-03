@@ -39,7 +39,7 @@ Engine Integration
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4_subsurface.PNG)
         * Automatically generated material do not have cartoon effects those originally exist.
         * Unlike pmx (pmx is UTF16 or UTF8) vmd file is shift-jis format. This cause problem during mapping bone names if locale of Windows OS is not Japanese. This is the reason why vmd import works well only in Japanese Windows.
-      * [MMDBridge](https://github.com/uimac/mmdbridge) - I fixed vmd export bug fix of version 931. Pull request is waiting for approval.
+      * [MMDBridge](https://github.com/uimac/mmdbridge) - I fixed vmd export bug of version 931. Pull request is waiting for approval.
         * [View imported animation sequence in UE4](https://slack-files.com/T02UEJHJV-FCKQA2JTC-7d3ca6511f)
   * Using pmx2fbx 
     * [Unreal Engine4でMMDモデルを使ってみた（前編）](https://creator.game.cyberagent.co.jp/?p=3794)
