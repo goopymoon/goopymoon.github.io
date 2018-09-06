@@ -32,6 +32,7 @@ Engine Integration
   * [유니티에서 MMD 사용해보기](https://www.slideshare.net/flashscope/mmd-unity1)
 * UE4
   * [언리얼에 MMD 불러오기](http://blog.naver.com/PostView.nhn?blogId=lsb522&logNo=220943266529)
+  * [UnityChanLive UE4 Ver](https://dev.to/shop_0761/unity-chan-live-for-unrealengine-4-12l)
   * Using IM4U
     * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
