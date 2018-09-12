@@ -42,6 +42,8 @@ Engine Integration
         * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4_subsurface.PNG)
         * Automatically generated material do not have cartoon effects those originally exist.
         * Unlike pmx (pmx is UTF16 or UTF8) vmd file is shift-jis format. This cause problem during mapping bone names if locale of Windows OS is not Japanese. This is the reason why vmd import works well only in Japanese Windows.
+          * MultiByteToWideChar function works correctly in Japanese Windows
+          * I'm migrating required part of iconv into Windows to fix this.
       * [MMDBridge](https://github.com/uimac/mmdbridge) - System locale must be Japanese if bone name contains Japanese.
         * The encoding problem of Japanese name
           * Normal in Japanese Windows
