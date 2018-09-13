@@ -62,7 +62,7 @@ Engine Integration
     * [MMD to Blender tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-to-Blender-2-79-Tutorial-718326270)
     * [MMD in Blender basic posing tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-in-Blender-Basic-Posing-Tutorial-589157109)
     * [MMD in Blender importing motion tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-in-Blender-Importing-Motions-Tutorial-650932100)
-    * Import motion file as the following steps
+    * To Import motion file properly do as following steps
       * Select the bone and choose "Pose Mdoe"
       * Select the root bone then import VMD file.
       * Go to Object Mode, Select model, then import VMD for the facial
