@@ -33,7 +33,7 @@ Engine Integration
     * [MMD for Unity](http://mmd-for-unity-proj.github.io/mmd-for-unity/)
     * [MMD4Mecanim](http://stereoarts.jp/)
       * Perfectly imported
-      ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/screen_300x600_2018-09-14_00-23-13.png)
+      * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/screen_300x600_2018-09-14_00-23-13.png)
 * UE4
   * [언리얼에 MMD 불러오기](http://blog.naver.com/PostView.nhn?blogId=lsb522&logNo=220943266529)
   * [UnityChanLive UE4 Ver](https://dev.to/shop_0761/unity-chan-live-for-unrealengine-4-12l)
