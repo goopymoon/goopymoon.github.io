@@ -62,7 +62,11 @@ Engine Integration
     * [MMD to Blender tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-to-Blender-2-79-Tutorial-718326270)
     * [MMD in Blender basic posing tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-in-Blender-Basic-Posing-Tutorial-589157109)
     * [MMD in Blender importing motion tutorial](https://www.deviantart.com/crazy4anime09/art/MMD-in-Blender-Importing-Motions-Tutorial-650932100)
-    * After importing vmd only facial animation can be played in the Blender. Fbx exported by Blender have import problem in UE4 4.20.1 such as duplicated bone name and multiple root.
+    * Import motion file as the following steps
+      * Select the bone and choose "Pose Mdoe"
+      * Select the root bone then import VMD file.
+      * Go to Object Mode, Select model, then import VMD for the facial
+    * Fbx exported by Blender have import problem such as duplicated bone name and multiple root.
 
 Shader
 * https://github.com/ray-cast/ray-mmd
