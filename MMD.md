@@ -47,7 +47,7 @@ Engine Integration
           * Plugin's encoding helper uses MultiByteToWideChar() and WideCharToMultiByte(). These are available in all Windows versions, but the PC should contain code page 932.
           * I started to migrate required part of iconv into Windows to fix this.
       * [MMDBridge](https://github.com/uimac/mmdbridge) - System locale must be Japanese if bone name contains Japanese.
-        * The encoding problem of Japanese name
+        * The encoding problem of Japanese bone name
           * [Normal in Japanese Windows](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/bone_name_mismatch_in_japan_locale.PNG)
           * [Abnormal in Korean Windows](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/bone_name_mismatch_in_korean_locale.PNG)
         * [View imported animation sequence in UE4](https://slack-files.com/T02UEJHJV-FCKQA2JTC-7d3ca6511f)
