@@ -66,7 +66,7 @@ Engine Integration
       * Select the bone and choose "Pose Mdoe"
       * Select the root bone then import VMD file.
       * Go to Object Mode, Select model, then import VMD for the facial
-    * Fbx exported by Blender have import problem such as duplicated bone name and multiple root.
+    * Fbx exported by Blender may have import problem such as duplicated bone name and multiple root.
 
 Shader
 * https://github.com/ray-cast/ray-mmd
