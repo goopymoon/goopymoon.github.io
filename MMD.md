@@ -41,7 +41,7 @@ Engine Integration
     * [UE4 MMDのPMXとVMDを直接インポートし、マテリアル、IK、物理、表情モーフを一発でUE4へ持ってくる方法](http://unrealengine.hatenablog.com/entry/2016/01/11/224331)
     * [Unreal Engine4でMMDモデルに表情を付ける方法](https://creator.game.cyberagent.co.jp/?p=3798)
       * [IM4U Plugin](https://github.com/goopymoon/UnrealEngine_IM4UPlugin) - Original plugin's development is discontinued. I made a patch for version 4.20.1 in my forked repository. 
-        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4_subsurface.PNG | width=100)
+        * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/tda_ue4_subsurface.PNG)
         * Automatically generated material do not have cartoon effects those originally exist.
         * Unlike pmx (pmx is UTF16 or UTF8) vmd file is shift-jis format. This cause problem during mapping bone names if locale of Windows OS is not Japanese. This is the reason why vmd import works well only in Japanese Windows.
           * Plugin's encoding helper uses MultiByteToWideChar() and WideCharToMultiByte(). These are available in all Windows versions, but the PC should contain code page 932.
