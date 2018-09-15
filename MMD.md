@@ -13,6 +13,7 @@ Required tools
 * [MMD周辺ライブラリ](https://archive.fo/DrEcB)
 * [Vocaloid by Yamaha](http://www.vocaloid.com/)
 * [歌声合成ツールUTAU](http://utau-synth.com/)
+* [Unity hologram pyramid](https://assetstore.unity.com/packages/tools/hologram-pyramid-61735)
 
 Assets
 * https://bowlroll.net/file/4576
