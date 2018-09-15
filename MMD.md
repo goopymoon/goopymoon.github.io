@@ -15,7 +15,7 @@ Required tools
 * [歌声合成ツールUTAU](http://utau-synth.com/)
 * [Unity hologram pyramid](https://assetstore.unity.com/packages/tools/hologram-pyramid-61735)
   * [DIY-Pyramid-Hologram](https://www.instructables.com/id/DIY-Pyramid-Hologram/)
-  * [hologram looking glass](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16522934&memberNo=15460786&vType=VERTICAL)
+  * [ologram looking glass](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16522934&memberNo=15460786&vType=VERTICAL)
   
 Assets
 * https://bowlroll.net/file/4576
