@@ -34,7 +34,7 @@ Engine Integration
     * [MMD4Mecanim](http://stereoarts.jp/)
       * Perfectly imported
       * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/screen_300x600_2018-09-14_00-23-13.png)
-      * [![Hologram Pyramid](http://img.youtube.com/vi/-frQQF_y7Ps/0.jpg)](https://youtu.be/-frQQF_y7Ps) 
+      * https://www.youtube.com/watch?v=-frQQF_y7Ps
   * [UnityにMMDモデルを取り込んでhololensで表示する](http://bluebirdofoz.hatenablog.com/entry/2017/06/11/203859)
 * UE4
   * [언리얼에 MMD 불러오기](http://blog.naver.com/PostView.nhn?blogId=lsb522&logNo=220943266529)
