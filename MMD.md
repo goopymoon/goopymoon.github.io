@@ -76,7 +76,7 @@ Shader
 Pseudo hologram
 * [Unity hologram pyramid](https://assetstore.unity.com/packages/tools/hologram-pyramid-61735)
   * [DIY-Pyramid-Hologram](https://www.instructables.com/id/DIY-Pyramid-Hologram/)
-  * [![Miku hologram](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/miku_hologram.png)](https://www.youtube.com/watch?v=-frQQF_y7Ps?t=0s) 
+  * [![Miku hologram](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/miku_hologram.PNG)](https://www.youtube.com/watch?v=-frQQF_y7Ps?t=0s) 
 * [Hologram looking glass](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16377390&memberNo=29546687&vType=VERTICAL)
 * [Gatebox](https://gatebox.ai/home/)
 
