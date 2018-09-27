@@ -5,6 +5,7 @@ Required tools
   * https://www.youtube.com/watch?v=UX4II4sy1IQ
   * [PMX file format](https://gist.github.com/ulrikdamm/8274171)
   * [VMD file format memo](https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d), [VMD file format memo 2](https://blog.goo.ne.jp/torisu_tetosuki/e/2a2cb5c2de7563c5e6f20b19e1fe6139)
+  * [spa file](https://learnmmd.com/http:/learnmmd.com/pmd-editor-basics-sph-and-spa-files-add-sparkle/)
 * [MMD4Mecanim](http://stereoarts.jp/)
   * pmx2fbx.exe is in the Unity package.
 * [MMDBridge](https://sites.google.com/a/render.jp/mmdbridge/)
