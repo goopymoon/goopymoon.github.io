@@ -3,6 +3,7 @@ Required tools
   * https://www.youtube.com/watch?v=eRp2dYzQVJs
   * https://www.youtube.com/watch?v=pAGT9pD_3Jg
   * https://www.youtube.com/watch?v=UX4II4sy1IQ
+  * [PMD file format](http://mikumikudance.wikia.com/wiki/MMD:Polygon_Model_Data)
   * [PMX file format](https://gist.github.com/felixjones/f8a06bd48f9da9a4539f)
   * [VMD file format memo](https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d), [VMD file format memo 2](https://blog.goo.ne.jp/torisu_tetosuki/e/2a2cb5c2de7563c5e6f20b19e1fe6139)
   * [sph/spa file](https://learnmmd.com/http:/learnmmd.com/pmd-editor-basics-sph-and-spa-files-add-sparkle/)
