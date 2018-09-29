@@ -1,4 +1,4 @@
-Interested in intelligent vocaloid beyond game.
+Interested in intelligent vocaloid in virutal world.
 
 * [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
 * Graphics
