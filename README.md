@@ -6,6 +6,7 @@ Interested in intelligent vocaloid beyond game.
   * [OpenGL tutorial](http://lazyfoo.net/tutorials/OpenGL/index.php)
   * [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
   * [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
+  * [GPU instancing](https://hrmrzizon.github.io/2017/06/11/using-gpu-instancing-in-unity/)
   * Animation style rendering
     * [Style in Rendering: The History and Technique Behind AFRO SAMURAI](http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History)
     * [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](http://www.ggxrd.com/Motomura_Junya_GuiltyGearXrd.pdf)
