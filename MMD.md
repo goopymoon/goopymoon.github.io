@@ -35,7 +35,7 @@ Engine Integration
     * [MMD for Unity](http://mmd-for-unity-proj.github.io/mmd-for-unity/)
       * Source code is available.
       * Physics does not work well.
-      * I upgraded it to Unity2017 in my forked repository.
+      * I made a pullrequest of upgrad to Unity2017.
     * [MMD4Mecanim](http://stereoarts.jp/)
       * No source code is available.
       * Perfectly imported
