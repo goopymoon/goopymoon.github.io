@@ -57,7 +57,7 @@ Engine Integration
         * The encoding problem of Japanese bone name
           * [Normal in Japanese Windows](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/bone_name_mismatch_in_japan_locale.PNG)
           * [Abnormal in Korean Windows](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/bone_name_mismatch_in_korean_locale.PNG)
-        * [View imported animation sequence in UE4](https://slack-files.com/T02UEJHJV-FCKQA2JTC-7d3ca6511f)
+        * [View imported animation sequence in UE4](https://youtu.be/3X3dV2_NwwU)
   * Using pmx2fbx 
     * [Unreal Engine4でMMDモデルを使ってみた（前編）](https://creator.game.cyberagent.co.jp/?p=3794)
       * Material must be handled mannually according to generated model_name.xml file. cartoon effect must be considered too.
