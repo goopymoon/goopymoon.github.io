@@ -22,8 +22,7 @@ Assets
 * http://kasaneteto.jp/index_ent.html
 
 Tutorial
-* [MMD tutorial with English subs 1](http://youtube.com/watch?v=Jx1qLlbtCQI)
-  * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/miku_bone.PNG)
+* [![MMD tutorial with English subs 1](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/miku_bone.PNG)](http://youtube.com/watch?v=Jx1qLlbtCQI?t=0s) 
 * [MMD tutorial with English subs 2](http://youtube.com/watch?v=sCnX0EflenE)
 * [3D初心者が作ったMikuMikuDance初心者向け講座](http://www.nicovideo.jp/mylist/7374894)
 * [Blender](http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html)
