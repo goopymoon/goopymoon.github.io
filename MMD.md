@@ -33,6 +33,7 @@ Engine Integration
   * [MMD 4 Unity Tutorial](https://laboratoriesx86.wordpress.com/2015/04/26/tutorial-mmd-4-unity/)
   * [유니티에서 MMD 사용해보기](https://www.slideshare.net/flashscope/mmd-unity1)
     * [MMD for Unity](http://mmd-for-unity-proj.github.io/mmd-for-unity/)
+      * I upgraded it to Unity2017 in my forked repository.
     * [MMD4Mecanim](http://stereoarts.jp/)
       * Perfectly imported
       * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/screen_300x600_2018-09-14_00-23-13.png)
