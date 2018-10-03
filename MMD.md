@@ -42,7 +42,7 @@ Engine Integration
       * I made a pullrequest of upgrad to Unity2017.
     * [mmdlib-for-unity](https://github.com/goopymoon/libmmd-for-unity)
       * Source code is available.
-      * Uses bullet physics and works well
+      * Uses Bullet physics and works well
       * Shader is good as MMD4Mecanim
     * [MMD4Mecanim](http://stereoarts.jp/)
       * No source code is available.
