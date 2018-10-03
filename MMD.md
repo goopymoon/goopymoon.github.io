@@ -26,6 +26,7 @@ Tutorial
 * [3D初心者が作ったMikuMikuDance初心者向け講座](http://www.nicovideo.jp/mylist/7374894)
 * [Blender](http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html)
 * https://creator.game.cyberagent.co.jp/
+* [Joint of MMD](https://orig00.deviantart.net/7ce0/f/2017/274/9/b/pmxe_joints_stuff_by_steeldolls-dbp63or.png)
 
 Engine Integration
 * Unity
