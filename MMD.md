@@ -23,9 +23,9 @@ Tutorial
 * [3D初心者が作ったMikuMikuDance初心者向け講座](http://www.nicovideo.jp/mylist/7374894)
 * [Blender](http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html)
 * https://creator.game.cyberagent.co.jp/
-  * [PMD](http://mikumikudance.wikia.com/wiki/MMD:Polygon_Model_Data) / [PMX](https://gist.github.com/felixjones/f8a06bd48f9da9a4539f) file format
-  * VMD file format [memo](https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d)/[memo 2](https://blog.goo.ne.jp/torisu_tetosuki/e/2a2cb5c2de7563c5e6f20b19e1fe6139)
-  * [sph/spa file](https://learnmmd.com/http:/learnmmd.com/pmd-editor-basics-sph-and-spa-files-add-sparkle/)
+* [PMD](http://mikumikudance.wikia.com/wiki/MMD:Polygon_Model_Data) / [PMX](https://gist.github.com/felixjones/f8a06bd48f9da9a4539f) file format
+* VMD file format [memo](https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d)/[memo 2](https://blog.goo.ne.jp/torisu_tetosuki/e/2a2cb5c2de7563c5e6f20b19e1fe6139)
+* [sph/spa file](https://learnmmd.com/http:/learnmmd.com/pmd-editor-basics-sph-and-spa-files-add-sparkle/)
 * [Rigid body on MMD](https://www.deviantart.com/doremi391/art/MMD-How-to-make-physics-and-joints-TUTORIAL-448716016)
 * [Joints on MMD](https://orig00.deviantart.net/7ce0/f/2017/274/9/b/pmxe_joints_stuff_by_steeldolls-dbp63or.png)
 
