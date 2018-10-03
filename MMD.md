@@ -38,7 +38,12 @@ Engine Integration
     * [MMD for Unity](http://mmd-for-unity-proj.github.io/mmd-for-unity/)
       * Source code is available.
       * Physics does not work well.
+      * Something wrong with transparent material
       * I made a pullrequest of upgrad to Unity2017.
+    * [mmdlib-for-unity](https://github.com/goopymoon/libmmd-for-unity)
+      * Source code is available.
+      * Uses bullet physics and works well
+      * Shader is good as MMD4Mecanim
     * [MMD4Mecanim](http://stereoarts.jp/)
       * No source code is available.
       * Perfectly imported
