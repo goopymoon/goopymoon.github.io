@@ -93,6 +93,8 @@ Pseudo hologram
   * [![MMD multi-projection](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/miku_hologram.PNG)](https://www.youtube.com/watch?v=-frQQF_y7Ps?t=0s) [![MMD hologram](http://img.youtube.com/vi/FUwaFAuOZmg/0.jpg)](https://youtu.be/FUwaFAuOZmg?t=0s)
 * [Hologram looking glass](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16377390&memberNo=29546687&vType=VERTICAL)
 * [Gatebox](https://gatebox.ai/home/)
+* [Opengl on raspberry pi](http://www.raspberryconnect.com/gamessoftware/item/314-trying_out_opengl_on_raspberry_pi_3)
+* [Raspberry pi pocket projector](https://www.raspberrypi.org/blog/build-raspberry-pi-pocket-projector/)
 
 Animation
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
