@@ -9,6 +9,7 @@ Interested in intelligent vocaloid in virutal world.
   * [GPU instancing](https://hrmrzizon.github.io/2017/06/11/using-gpu-instancing-in-unity/)
   * Animation style rendering
     * [Style in Rendering: The History and Technique Behind AFRO SAMURAI](http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History)
+    * [Honkai Impact](http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf)
     * [GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D](http://www.ggxrd.com/Motomura_Junya_GuiltyGearXrd.pdf)
       * [interview](https://gigglehd.com/zbxe/12202898)
     * [Unity トゥーンシェーディングを使った３Dアニメ表現](https://qiita.com/MuRo_CG/items/c417ef6d6cbeed3dd42b)
