@@ -24,10 +24,6 @@ Tutorial
 * [Blender](http://hellamerdurial.blogspot.com/2014/02/mmd-blender.html)
 * https://creator.game.cyberagent.co.jp/
 
-Open GL
-* [libmmd](https://github.com/itsuhane/libmmd)
-* [Saba_viewer] (https://github.com/benikabocha/saba)
-
 Engine Integration
 * MMD Internals
   * [PMD](http://mikumikudance.wikia.com/wiki/MMD:Polygon_Model_Data) / [PMX](http://aicdg.com/oldblog/html5/2017/08/16/pmx-format.html) file format
@@ -36,6 +32,9 @@ Engine Integration
   * [Rigging](https://www.deviantart.com/mmdyesbutterfly/art/PMD-Xeditor-Rigging-Tutorial-328125378)
   * [Rigid body](https://www.deviantart.com/doremi391/art/MMD-How-to-make-physics-and-joints-TUTORIAL-448716016)
   * [Joints](https://orig00.deviantart.net/7ce0/f/2017/274/9/b/pmxe_joints_stuff_by_steeldolls-dbp63or.png)
+* Open GL
+  * [libmmd](https://github.com/itsuhane/libmmd)
+  * [Saba_viewer] (https://github.com/benikabocha/saba)
 * Unity
   * [MMD 4 Unity Tutorial](https://laboratoriesx86.wordpress.com/2015/04/26/tutorial-mmd-4-unity/)
   * [유니티에서 MMD 사용해보기](https://www.slideshare.net/flashscope/mmd-unity1)
