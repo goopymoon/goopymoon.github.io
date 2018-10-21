@@ -34,7 +34,7 @@ Engine Integration
   * [Joints](https://orig00.deviantart.net/7ce0/f/2017/274/9/b/pmxe_joints_stuff_by_steeldolls-dbp63or.png)
 * Open GL
   * [libmmd](https://github.com/itsuhane/libmmd)
-  * [Saba_viewer] (https://github.com/benikabocha/saba)
+  * [Saba_viewer](https://github.com/benikabocha/saba)
 * Unity
   * [MMD 4 Unity Tutorial](https://laboratoriesx86.wordpress.com/2015/04/26/tutorial-mmd-4-unity/)
   * [유니티에서 MMD 사용해보기](https://www.slideshare.net/flashscope/mmd-unity1)
