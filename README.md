@@ -4,7 +4,7 @@ Interested in intelligent vocaloid in virutal world.
 * Graphics
   * [GLFW](https://www.glfw.org/)
   * [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
-  * OpenGL [tutorial1](http://www.songho.ca/opengl/index.html}, [tutorial2](http://lazyfoo.net/tutorials/OpenGL/index.php)
+  * OpenGL [tutorial1](http://www.songho.ca/opengl/index.html), [tutorial2](http://lazyfoo.net/tutorials/OpenGL/index.php)
   * [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
   * [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
   * [GPU instancing](https://hrmrzizon.github.io/2017/06/11/using-gpu-instancing-in-unity/)
