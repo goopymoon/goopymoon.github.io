@@ -103,6 +103,7 @@ Pseudo hologram
 * [Raspberry pi pocket projector](https://www.raspberrypi.org/blog/build-raspberry-pi-pocket-projector/)
 
 Animation
+* [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
 * [Music-Driven Dance Generation with Neural Networks](https://omid.al/projects/GrooveNet.html)
 * [Sequential Deep Learning for Dancing Motion Generation](http://www.osaka-kyoiku.ac.jp/~challeng/SIG-Challenge-046/SIG-Challenge-046-08.pdf)
