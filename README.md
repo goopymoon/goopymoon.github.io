@@ -2,9 +2,9 @@ Interested in intelligent vocaloid in virutal world.
 
 * [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
 * Graphics
-  * [GLFW](https://www.glfw.org/)
-  * [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
   * OpenGL [documentation](http://code.nabla.net/doc/OpenGL/), [tutorial](http://www.opengl-tutorial.org/), [brief summary](http://www.songho.ca/opengl/index.html), [lecture](http://lazyfoo.net/tutorials/OpenGL/index.php)
+  * [GLFW](https://www.glfw.org/), [document](https://www.glfw.org/docs/latest/pages.html)
+  * [SDL tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
   * [The Book of Shaders](https://thebookofshaders.com/)
   * [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
   * [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
