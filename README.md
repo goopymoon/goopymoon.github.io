@@ -7,10 +7,10 @@ Interested in intelligent vocaloid in virutal world.
   * [GLFM](https://github.com/brackeen/glfm)
   * [SDL](https://www.libsdl.org/) [tutorial](http://lazyfoo.net/tutorials/SDL/index.php)
   * [The Book of Shaders](https://thebookofshaders.com/)
+  * [ImageMagick](http://www.imagemagick.org/script/index.php), [glslViwer](https://github.com/patriciogonzalezvivo/glslViewer), [glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas), [glslEditor](https://github.com/patriciogonzalezvivo/glslEditor)
   * [Forward vs Deferred vs Tiled Forward Rendering](https://www.3dgep.com/forward-plus/)
   * [LPV](http://ericpolman.com/2016/06/28/light-propagation-volumes/)
   * [GPU instancing](https://hrmrzizon.github.io/2017/06/11/using-gpu-instancing-in-unity/)
-  * [ImageMagick](http://www.imagemagick.org/script/index.php), [glslViwer](https://github.com/patriciogonzalezvivo/glslViewer), [glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas)
   * Animation style rendering
     * [Style in Rendering: The History and Technique Behind AFRO SAMURAI](http://www.gdcvault.com/play/1427/Style-in-Rendering-The-History)
     * [Honkai Impact 3](http://www.uniteseoul.com/2018/download_files/T1_0503_2.pdf)
