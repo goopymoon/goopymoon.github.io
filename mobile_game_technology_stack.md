@@ -1,7 +1,6 @@
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
 * [UnrealVS Setup](http://api.unrealengine.com/KOR/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
-* [gradle license problem](https://github.com/goopymoon/goopymoon.github.io/blob/master/gradle-license_problem.md)
 * [Android debugging](http://pafuhana1213.hatenablog.com/entry/2018/02/15/001307)
 * Scirpt: [Skookumscript](http://skookumscript.com/unreal/)([review](https://www.quora.com/What-do-you-guys-think-of-skookumscript-programming-language)), [unreal-js](https://www.slideshare.net/crocuis/unrealjs-ue4-75499471)
 * [commandlet](https://api.unrealengine.com/udk/Three/CommandletHome.html)
