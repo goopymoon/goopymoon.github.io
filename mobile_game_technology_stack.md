@@ -1,8 +1,8 @@
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
 * [UnrealVS Setup](http://api.unrealengine.com/KOR/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
+* [UAT](https://blog.mi.hdm-stuttgart.de/index.php/2017/02/11/uat-automation/)
 * [Android debugging](http://pafuhana1213.hatenablog.com/entry/2018/02/15/001307)
-* Scirpt: [Skookumscript](http://skookumscript.com/unreal/)([review](https://www.quora.com/What-do-you-guys-think-of-skookumscript-programming-language)), [unreal-js](https://www.slideshare.net/crocuis/unrealjs-ue4-75499471)
 * [commandlet](https://api.unrealengine.com/udk/Three/CommandletHome.html)
 * [UE4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf)
 * [Test Automation](https://docs.unrealengine.com/en-us/Programming/Automation/TechnicalGuide)
