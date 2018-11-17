@@ -44,7 +44,7 @@ Engine Integration
         * First comment out SIMD related definition in btScalar.h
           * https://pybullet.org/Bullet/phpBB3/viewtopic.php?t=9443
         * Build Bullet without double precision.
-          * cmake -DBUILD_PYBULLET=ON -DBUILD_PYBULLET_NUMPY=ON -DUSE_DOUBLE_PRECISION=OFF -DBT_USE_EGL=ON -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=blabla ..
+          * cmake -DBUILD_PYBULLET=ON -DBUILD_PYBULLET_NUMPY=ON -DUSE_DOUBLE_PRECISION=OFF -DBT_USE_EGL=ON -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX="your installation path" ..
 * Unity
   * [MMD 4 Unity Tutorial](https://laboratoriesx86.wordpress.com/2015/04/26/tutorial-mmd-4-unity/)
   * [유니티에서 MMD 사용해보기](https://www.slideshare.net/flashscope/mmd-unity1)
