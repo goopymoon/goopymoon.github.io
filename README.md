@@ -35,6 +35,7 @@ Interested in intelligent vocaloid in virutal world.
   * [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 * Deep Learning 
   * Setup
+    * [pyenv/virtualenv/autoenv](http://taewan.kim/post/python_virtual_env/)
     * [Tensorflow](https://mjgim.icim.or.kr/2017/04/30/tensorflow.html)
     * [Keras](https://keras.io/#installation)
     * [Anaconda](https://conda.io/docs/user-guide/install/windows.html)
