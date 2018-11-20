@@ -38,12 +38,12 @@ Engine Integration
     * https://qiita.com/benikabocha/items/ae9d48e314f51746f453
     * I think this is the most perfect open source code of mmd.
     * ![](https://github.com/goopymoon/goopymoon.github.io/blob/master/Image/saba_viewer.PNG)
-    * MacOS issue 
-      * Bullet which is installed by brew has crash problem in high Sierra and Mojave.
-      * To solve this build bullet as following and link it with Saba viewer.
+    * How to run in debug mode in MacOS 
+      * Bullet which is installed by brew has crash problem in Debug mode.
+      * To bypass this issue build bullet as following.
         1. comment out SIMD related definition in btScalar.h
           * https://pybullet.org/Bullet/phpBB3/viewtopic.php?t=9443
-        2. Build Bullet without double precision.
+        2. Build Bullet without double precision and link this.
           * cmake -DBUILD_PYBULLET=ON -DBUILD_PYBULLET_NUMPY=ON -DUSE_DOUBLE_PRECISION=OFF -DBT_USE_EGL=ON -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX="your installation path" ..
 * Unity
   * [MMD 4 Unity Tutorial](https://laboratoriesx86.wordpress.com/2015/04/26/tutorial-mmd-4-unity/)
