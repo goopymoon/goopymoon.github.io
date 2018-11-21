@@ -113,6 +113,7 @@ Animation
 * [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
 * [Music-Driven Dance Generation with Neural Networks](https://omid.al/projects/GrooveNet.html)
+  * [essentia](https://github.com/MTG/essentia/blob/master/src/examples/tutorial/essentia_python_tutorial.ipynb)
 * [Sequential Deep Learning for Dancing Motion Generation](http://www.osaka-kyoiku.ac.jp/~challeng/SIG-Challenge-046/SIG-Challenge-046-08.pdf)
 * [Machine-Learning Algorithm Watches Dance Dance Revolution, Then Creates Dances of Its Own](https://www.technologyreview.com/s/604000/machine-learning-algorithm-watches-dance-dance-revolution-then-creates-dances-of-its-own/)
 * [Learn Audio Beat Tracking for Music Information Retrieval](https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/)
