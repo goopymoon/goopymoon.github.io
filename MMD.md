@@ -124,6 +124,7 @@ Skeleton Information Obtained by a Kinect Sensor](https://pdfs.semanticscholar.o
 * [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
   * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
   * [mocap data](http://mocap.cs.cmu.edu)
+  * https://github.com/AliJalalifar/Character_Animation
 * [Recurrent Neural Networks for Modeling Motion Capture Data](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/wpapers/DL2.pdf)
 * [AI powered motion capture](https://getrad.co/)
   * https://www.forbes.com/sites/nvidia/2018/05/09/ai-powered-motion-capture-a-radical-step-toward-modern-3d-content-pipelines/#70d838d5b551
