@@ -123,7 +123,7 @@ Skeleton Information Obtained by a Kinect Sensor](https://pdfs.semanticscholar.o
   * https://www.forbes.com/sites/nvidia/2018/05/09/ai-powered-motion-capture-a-radical-step-toward-modern-3d-content-pipelines/#70d838d5b551
 * [Monocular Human Motion Capture
 using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf)
-* [mocap data](http://mocap.cs.cmu.edu)
+* [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
   * Auto Conditioned RNN motion
     * https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s
       * https://arxiv.org/pdf/1707.05363.pdf
