@@ -36,6 +36,7 @@ Interested in intelligent vocaloid in virutal world.
 * Deep Learning 
   * Setup
     * [pyenv/virtualenv/autoenv](http://taewan.kim/post/python_virtual_env/)
+    * [macos for deep learning](https://www.pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/)
     * [Tensorflow](https://mjgim.icim.or.kr/2017/04/30/tensorflow.html)
     * [Keras](https://keras.io/#installation)
     * [Anaconda](https://conda.io/docs/user-guide/install/windows.html)
@@ -53,4 +54,4 @@ Interested in intelligent vocaloid in virutal world.
     * [Batch normalization](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
     * [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
   * [CNN](https://github.com/goopymoon/goopymoon.github.io/blob/master/CNN.md)
-* [Vocaloid](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
+* [MMD](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
