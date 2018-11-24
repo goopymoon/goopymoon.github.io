@@ -127,6 +127,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
   * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
   * [mocap data](http://mocap.cs.cmu.edu)
   * https://github.com/AliJalalifar/Character_Animation
+* [Lecture: RNN and autoencoder: pdf](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwj8rNb5kuzeAhXJTLwKHbG5BKwQFjAAegQIChAC&url=https%3A%2F%2Fcanvas.stanford.edu%2Ffiles%2F1079044%2Fdownload%3Fdownload_frd%3D1&usg=AOvVaw2uZMJCvtEE6eQHGcypWqev)
 * [LSTM-autoencoder](https://github.com/iwyoo/LSTM-autoencoder)
 * [Human motion prediction](https://github.com/una-dinosauria/human-motion-prediction)
 * [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion)
