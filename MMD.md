@@ -125,7 +125,7 @@ Skeleton Information Obtained by a Kinect Sensor](https://pdfs.semanticscholar.o
 using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf)
 * [mocap data](http://mocap.cs.cmu.edu)
   * Auto Conditioned RNN motion
-    * [![Auto Conditioned RNN motion]()](https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s)
+    * [![Auto Conditioned RNN motion](https://img.youtube.com/vi/https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be/default.jpg)](https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s)
       * https://arxiv.org/pdf/1707.05363.pdf
       * https://github.com/papagina/Auto_Conditioned_RNN_motion
   * [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
