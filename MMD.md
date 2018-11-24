@@ -128,7 +128,8 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
   * Auto Conditioned RNN motion
     * https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s
       * https://arxiv.org/pdf/1707.05363.pdf
-      * https://github.com/papagina/Auto_Conditioned_RNN_motion
+      * https://github.com/hjzh4/Auto-Conditioned-LSTM (tensor flow version)
+      * https://github.com/papagina/Auto_Conditioned_RNN_motion (original pytorch version)
   * [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
     * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
     * https://github.com/AliJalalifar/Character_Animation
