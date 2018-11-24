@@ -127,6 +127,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
   * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
   * [mocap data](http://mocap.cs.cmu.edu)
   * https://github.com/AliJalalifar/Character_Animation
+* [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion)
 * [Recurrent Neural Networks for Modeling Motion Capture Data](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/wpapers/DL2.pdf)
 * [Learn Audio Beat Tracking for Music Information Retrieval](https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/)
 * [Machine-Learning Algorithm Watches Dance Dance Revolution, Then Creates Dances of Its Own](https://www.technologyreview.com/s/604000/machine-learning-algorithm-watches-dance-dance-revolution-then-creates-dances-of-its-own/)
