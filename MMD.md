@@ -123,14 +123,15 @@ Skeleton Information Obtained by a Kinect Sensor](https://pdfs.semanticscholar.o
   * https://www.forbes.com/sites/nvidia/2018/05/09/ai-powered-motion-capture-a-radical-step-toward-modern-3d-content-pipelines/#70d838d5b551
 * [Monocular Human Motion Capture
 using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf)
-* [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
-  * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
-  * [mocap data](http://mocap.cs.cmu.edu)
-  * https://github.com/AliJalalifar/Character_Animation
+* [mocap data](http://mocap.cs.cmu.edu)
+  * https://arxiv.org/pdf/1707.05363.pdf
+    * [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion)
+  * [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
+    * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
+    * https://github.com/AliJalalifar/Character_Animation
 * [Lecture: RNN and autoencoder: pdf](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwj8rNb5kuzeAhXJTLwKHbG5BKwQFjAAegQIChAC&url=https%3A%2F%2Fcanvas.stanford.edu%2Ffiles%2F1079044%2Fdownload%3Fdownload_frd%3D1&usg=AOvVaw2uZMJCvtEE6eQHGcypWqev)
 * [LSTM-autoencoder](https://github.com/iwyoo/LSTM-autoencoder)
 * [Human motion prediction](https://github.com/una-dinosauria/human-motion-prediction)
-* [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion)
 * [Recurrent Neural Networks for Modeling Motion Capture Data](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/wpapers/DL2.pdf)
 * [Learn Audio Beat Tracking for Music Information Retrieval](https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/)
 * [Machine-Learning Algorithm Watches Dance Dance Revolution, Then Creates Dances of Its Own](https://www.technologyreview.com/s/604000/machine-learning-algorithm-watches-dance-dance-revolution-then-creates-dances-of-its-own/)
