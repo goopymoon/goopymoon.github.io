@@ -56,4 +56,4 @@ Interested in intelligent vocaloid in virutal world.
     * [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
   * [CNN](https://github.com/goopymoon/goopymoon.github.io/blob/master/CNN.md)
 * [MMD](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
-* [MMD with ML](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD_ML.md)
+* [MMD with Deep Learning](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD_ML.md)
