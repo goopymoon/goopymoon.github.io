@@ -129,6 +129,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 * [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
   * [motion data file format](http://www.dcs.shef.ac.uk/intranet/research/public/resmes/CS0111.pdf)
   * [How to convert BVH to VMD](https://github.com/powroupi/blender_mmd_tools/wiki/Tutorial:-How-to-convert-BVH-to-VMD)
+    * http://b.hatena.ne.jp/entry/13416038/comment/yomotsu
   * Auto Conditioned RNN motion
     * https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s
       * https://arxiv.org/pdf/1707.05363.pdf
