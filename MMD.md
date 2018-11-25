@@ -109,6 +109,9 @@ Pseudo hologram
 * [Opengl on raspberry pi](http://www.raspberryconnect.com/gamessoftware/item/314-trying_out_opengl_on_raspberry_pi_3)
 * [Raspberry pi pocket projector](https://www.raspberrypi.org/blog/build-raspberry-pi-pocket-projector/)
 
+ARKiet
+* https://blendersushi.blogspot.com/2017/08/arkit-blender-mikumikudance-mmd-for.html
+
 Conversation
 * http://self.systems/app/
 
