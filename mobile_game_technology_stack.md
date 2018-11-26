@@ -57,8 +57,6 @@ Setting Up Development Environment
 * [tslint](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/)
 * [how to debug ts in vscode](https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a)
 
-[Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
-
 Gaming Service Archetecture
 * [Elasticsearch Service](http://docs.aws.amazon.com/ko_kr/elasticsearch-service/latest/developerguide/aes-dg.pdf)
 * [Log Aggregation](https://logz.io/blog/kafka-vs-redis/) 
@@ -70,9 +68,11 @@ Gaming Service Archetecture
 * [Deploy using Rundeck and Ansible](https://gitlab.com/alandie/Rundeck-Ansible-AWS/tree/master/Rundeck-Ansible-AWS)
 * [Crash Reporting - hocketyapp](https://hockeyapp.net/)
 
+Smart contract
+* [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
+
 Seminar & Webinar 
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
 * [AWS를 활용하여 Daily Report 만들기](https://www.slideshare.net/changjej/aws-daily-report)
 * [KGC 2014 가볍고 유연하게 데이터 분석하기](https://www.slideshare.net/julingks/kgc2014?next_slideshow=1)
-
