@@ -37,3 +37,6 @@ Dancing motion generation
   * [essentia](https://github.com/MTG/essentia/blob/master/src/examples/tutorial/essentia_python_tutorial.ipynb)
 * https://medium.com/@kcimc/discrete-figures-7d9e9c275c47
 * [Deep Learning Dance Smackdown](http://silky.github.io/posts/2017-08-28-deep-learning-dance-smackdown.html)
+
+Conversation
+* http://self.systems/app/
