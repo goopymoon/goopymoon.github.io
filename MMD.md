@@ -112,5 +112,3 @@ Pseudo hologram
 ARKit
 * https://blendersushi.blogspot.com/2017/08/arkit-blender-mikumikudance-mmd-for.html
 
-Conversation
-* http://self.systems/app/
