@@ -57,6 +57,8 @@ Setting Up Development Environment
 * [tslint](https://spin.atomicobject.com/2017/06/05/tslint-linting-setup/)
 * [how to debug ts in vscode](https://medium.com/@dupski/debug-typescript-in-vs-code-without-compiling-using-ts-node-9d1f4f9a94a)
 
+* [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
+
 Gaming Service Archetecture
 * [Elasticsearch Service](http://docs.aws.amazon.com/ko_kr/elasticsearch-service/latest/developerguide/aes-dg.pdf)
 * [Log Aggregation](https://logz.io/blog/kafka-vs-redis/) 
