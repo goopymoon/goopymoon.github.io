@@ -1,6 +1,5 @@
 Interested in intelligent vocaloid in virutal world.
 
-* [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
 * [Graphics](https://github.com/goopymoon/goopymoon.github.io/blob/master/graphics.md)
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
 * [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
