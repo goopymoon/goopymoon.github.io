@@ -2,7 +2,6 @@ Interested in intelligent vocaloid in virutal world.
 
 * [Graphics](https://github.com/goopymoon/goopymoon.github.io/blob/master/graphics.md)
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
-* [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 * Gamming AI
   * [FSM vs. Behavior tree](https://web.stanford.edu/class/cs123/lectures/CS123_lec08_HFSM_BT.pdf): [2009 ndc](https://www.slideshare.net/yonghakim900/2009-ndc)
   * Behavior Tree: [Introduction](http://blog.renatopp.com/2014/07/25/an-introduction-to-behavior-trees-part-1/), [tool](https://archive.codeplex.com/?p=brainiac)
