@@ -1,4 +1,4 @@
-Interested in intelligent vocaloid in virutal world.
+Interested in the intelligent vocaloid.
 
 * [Graphics](https://github.com/goopymoon/goopymoon.github.io/blob/master/graphics.md)
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
