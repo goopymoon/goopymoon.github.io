@@ -1,53 +1,3 @@
-Setup
-* [pyenv/virtualenv/autoenv](http://taewan.kim/post/python_virtual_env/)
-* [macos for deep learning](https://www.pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/)
-* [Tensorflow](https://mjgim.icim.or.kr/2017/04/30/tensorflow.html)
-* [Keras](https://keras.io/#installation)
-* [Anaconda](https://conda.io/docs/user-guide/install/windows.html)
-* [CUDA Toolkit 9.0 Downloads - you must download base version](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
-* [Download cuDNN v7.2.1 (August 7, 2018), for CUDA 9.0](https://developer.nvidia.com/rdp/cudnn-download)
-
-Fundamentals
-* [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Data Types](http://scikit-image.org/docs/dev/user_guide/data_types.html)
-* [Fundamentals of Deep Learning – Starting with Artificial Neural Network](https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/)
-* [Overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
-* [Hyperparameter](https://www.quora.com/What-are-hyperparameters-in-machine-learning)
-* [One-hot encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)
-* [Epoch vs iterations vs batch size](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
-* [Learning rate schedule](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
-* [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
-* [Batch normalization](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
-* [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
-    
-Image Classification
-* [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
-* [Optimizing Neural Networks using Keras](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
-* [Augmenting Image Data with Keras](https://machinelearningmastery.com/image-augmentation-deep-learning-keras/), [Usage](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/)
-* https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
-* https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
-* https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
-* [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
-
-Food Classification
-* http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html
-* http://blog.stratospark.com/creating-a-deep-learning-ios-app-with-keras-and-tensorflow.html
-* http://images.nvidia.com/content/APAC/events/ai-conference/resource/ai-for-research/FoodAI-Food-Image-Recognition-with-Deep-Learning.pdf
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537777/
-* https://arxiv.org/ftp/arxiv/papers/1606/1606.05675.pdf
-* [Food-101 – Mining Discriminative Components with Random Forests](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
-
-Preparing Data
-* https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
-* https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
-* https://github.com/philographer/crawl-google
-
-Calorie Estimation
-* https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/44321.pdf
-* http://www.caloriemama.ai/#FoodRecognition
-* https://medium.com/syncedreview/deep-learning-based-food-calorie-estimation-method-in-dietary-assessment-1e76a2acee7
-* http://cs229.stanford.edu/proj2015/151_report.pdf
-
 Motion Capture using ML
 * [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
@@ -87,10 +37,3 @@ Dancing motion generation
   * [essentia](https://github.com/MTG/essentia/blob/master/src/examples/tutorial/essentia_python_tutorial.ipynb)
 * https://medium.com/@kcimc/discrete-figures-7d9e9c275c47
 * [Deep Learning Dance Smackdown](http://silky.github.io/posts/2017-08-28-deep-learning-dance-smackdown.html)
-
-Running on Devices
-* https://github.com/amir-abdi/keras_to_tensorflow
-* https://github.com/OmarAflak/Keras-Android-XOR
-* https://heartbeat.fritz.ai/deploying-pytorch-and-keras-models-to-android-with-tensorflow-mobile-a16a1fb83f2
-* https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32
-* https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
