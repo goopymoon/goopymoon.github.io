@@ -28,8 +28,6 @@ Image Classification
 * https://www.pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
 * https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 * [Learning deep features for discriminative localization](https://jsideas.net/python/2018/01/04/class_activation_map.html)
-
-Food Classification
 * http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html
 * http://blog.stratospark.com/creating-a-deep-learning-ios-app-with-keras-and-tensorflow.html
 * http://images.nvidia.com/content/APAC/events/ai-conference/resource/ai-for-research/FoodAI-Food-Image-Recognition-with-Deep-Learning.pdf
@@ -41,12 +39,6 @@ Preparing Data
 * https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
 * https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 * https://github.com/philographer/crawl-google
-
-Calorie Estimation
-* https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/44321.pdf
-* http://www.caloriemama.ai/#FoodRecognition
-* https://medium.com/syncedreview/deep-learning-based-food-calorie-estimation-method-in-dietary-assessment-1e76a2acee7
-* http://cs229.stanford.edu/proj2015/151_report.pdf
 
 Running on Devices
 * https://github.com/amir-abdi/keras_to_tensorflow
