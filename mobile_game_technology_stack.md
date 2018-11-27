@@ -27,6 +27,9 @@ Gamming AI
   * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * [Machine Learning](https://github.com/goopymoon/goopymoon.github.io/blob/master/CNN.md)
 
+Smart contract
+* [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
+
 Setting Up Development Environment
 * git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
 * Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
@@ -76,9 +79,6 @@ Gaming Service Archetecture
 * [posgresql log](https://blog.2ndquadrant.com/redislog-integrating-postgresql-with-logstash-for-devops-real-time-monitoring/)
 * [Deploy using Rundeck and Ansible](https://gitlab.com/alandie/Rundeck-Ansible-AWS/tree/master/Rundeck-Ansible-AWS)
 * [Crash Reporting - hocketyapp](https://hockeyapp.net/)
-
-Smart contract
-* [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 
 Seminar & Webinar 
 * [Cloud Gaming Architecture](https://s3-eu-west-1.amazonaws.com/aws-de-media/images/_Berlin_Loft_Slides/cloud_gaming_architectures.pdf)
