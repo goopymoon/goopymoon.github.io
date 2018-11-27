@@ -30,7 +30,7 @@ Gamming AI
 Smart contract
 * [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 
-Setting Up Development Environment
+Development Environment
 * git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
 * Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
 * Redis: [GUI tool](https://redisdesktop.com/), [Command](http://www.redisgate.com/redis/command/commands.php), [tips](https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis/)
