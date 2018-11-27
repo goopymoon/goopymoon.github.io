@@ -1,6 +1,7 @@
-[C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
-
-[Graphics](https://github.com/goopymoon/goopymoon.github.io/blob/master/graphics.md)
+Basics
+* git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
+* [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
+* [Graphics](https://github.com/goopymoon/goopymoon.github.io/blob/master/graphics.md)
 
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
@@ -30,8 +31,7 @@ Gamming AI
 Smart contract
 * [Solidity tutorial: CrytoZombies](https://cryptozombies.io/en/course/)
 
-Development Environment
-* git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
+Server Development Environment
 * Logging: [log4cxx](https://logging.apache.org/log4cxx/latest_stable/), [chucho](https://github.com/mexicowilly/Chucho/wiki)
 * Redis: [GUI tool](https://redisdesktop.com/), [Command](http://www.redisgate.com/redis/command/commands.php), [tips](https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis/)
 * Rabbitmq: [access control](https://www.rabbitmq.com/access-control.html)
