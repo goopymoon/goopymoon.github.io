@@ -1,4 +1,4 @@
-I'm personally interested in making an intelligent vocaloid in virtual world and its service.
+I'm personally interested in the making of intelligent vocaloid in virtual world and its service.
 
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
 * [Lego like bricks](https://github.com/goopymoon/iBlock/wiki)
