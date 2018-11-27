@@ -1,5 +1,7 @@
 [C++11~](https://github.com/jwvg0425/ModernCppStudy/wiki)
 
+[Graphics](https://github.com/goopymoon/goopymoon.github.io/blob/master/graphics.md)
+
 Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
 * [UnrealVS Setup](http://api.unrealengine.com/KOR/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
@@ -17,6 +19,13 @@ Unity
 
 2D animation
 * [Spine](http://esotericsoftware.com/), [Live2D](http://www.live2d.com/ja/)([tutorial](http://sites.cybernoids.jp/cubism2_kr/))
+
+Gamming AI
+  * [FSM vs. Behavior tree](https://web.stanford.edu/class/cs123/lectures/CS123_lec08_HFSM_BT.pdf): [2009 ndc](https://www.slideshare.net/yonghakim900/2009-ndc)
+  * Behavior Tree: [Introduction](http://blog.renatopp.com/2014/07/25/an-introduction-to-behavior-trees-part-1/), [tool](https://archive.codeplex.com/?p=brainiac)
+  * [Are Behavior Trees a Thing of the Past](https://www.gamasutra.com/blogs/JakobRasmussen/20160427/271188/Are_Behavior_Trees_a_Thing_of_the_Past.php)
+  * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
+* [Machine Learning](https://github.com/goopymoon/goopymoon.github.io/blob/master/CNN.md)
 
 Setting Up Development Environment
 * git: [branch name prompt](https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt), [merge vs rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing), [fast forward](https://ariya.io/2013/09/fast-forward-git-merge)
