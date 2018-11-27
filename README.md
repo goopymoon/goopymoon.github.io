@@ -1,4 +1,4 @@
-Interested in the intelligent vocaloid.
+Interested in the motion generation for MMD using deep learning to make an intelligent vocaloid.
 
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
 * [MMD](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
