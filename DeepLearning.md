@@ -1,7 +1,7 @@
 Setup
 * [pyenv/virtualenv/autoenv](http://taewan.kim/post/python_virtual_env/)
 * [macos for deep learning](https://www.pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/)
-* [Tensorflow](https://mjgim.icim.or.kr/2017/04/30/tensorflow.html)
+* [Tensorflow](https://www.tensorflow.org/install/?hl=ko)
 * [Keras](https://keras.io/#installation)
 * [Anaconda](https://conda.io/docs/user-guide/install/windows.html)
 * [CUDA Toolkit 9.0 Downloads - you must download base version](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
