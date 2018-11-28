@@ -6,6 +6,7 @@ Setup
 * [Anaconda](https://conda.io/docs/user-guide/install/windows.html)
 * [CUDA Toolkit 9.0 Downloads - you must download base version](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
 * [Download cuDNN v7.2.1 (August 7, 2018), for CUDA 9.0](https://developer.nvidia.com/rdp/cudnn-download)
+* [Core ML](https://developer.apple.com/kr/machine-learning/?fbclid=IwAR1TpYRR3-2o5pAS77YTCUjbgeDhIpEGQtZK5SIEyYTxSmPXrwr4h-JBmB0)
 
 Fundamentals
 * [PythonDataScienceHandbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
