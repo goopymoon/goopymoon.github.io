@@ -65,8 +65,8 @@ Using CMU Motion Capture Database
     * https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s
       * https://arxiv.org/pdf/1707.05363.pdf
         * [Professor Forcing: A New Algorithm for Tranining Recurrent Networks](https://arxiv.org/pdf/1610.09038.pdf)
-      * https://github.com/hjzh4/Auto-Conditioned-LSTM (tensor flow version)
       * https://github.com/papagina/Auto_Conditioned_RNN_motion (original pytorch version)
+      * https://github.com/hjzh4/Auto-Conditioned-LSTM (tensor flow version)
   * [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
     * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
     * https://github.com/AliJalalifar/Character_Animation
