@@ -20,7 +20,10 @@ Fundamentals
 * [Feature standardization](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 * [Batch normalization](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
 * [Regularization Techniques](https://www.analyticsvidhya.com/blog/2018/04/fundamentals-deep-learning-regularization-techniques/)
-    
+* [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR2QW3KwKM8S_a1GLBfyUqAsB3xPLQAonBeSBkO0Um-U0eV4YA3KCR9fITA)
+* [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks?fbclid=IwAR0qANuNwxQollX5oohasoCNVBZfrlXA3QLwYk6kPapT3iuvYoCRsqYv_QI)
+* [Tips and tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks?fbclid=IwAR0wgAkPJT080t4QaNR96n12ius8WBGvbIuBwYi1RwQNHd7wtNM5dKRJxCk)
+
 Image Classification
 * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
 * [Optimizing Neural Networks using Keras](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
