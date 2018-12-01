@@ -82,6 +82,7 @@ Dancing motion generation
 * [Sequential Deep Learning for Dancing Motion Generation](http://www.osaka-kyoiku.ac.jp/~challeng/SIG-Challenge-046/SIG-Challenge-046-08.pdf)
 * [Music-Driven Dance Generation with Neural Networks](https://omid.al/projects/GrooveNet.html)
   * [essentia](https://github.com/MTG/essentia/blob/master/src/examples/tutorial/essentia_python_tutorial.ipynb)
+  * [Factored Conditional Restricted Boltzmann Machines for Modeling Motion Style](http://www.cs.toronto.edu/~fritz/absps/fcrbm_icml.pdf)
 * https://medium.com/@kcimc/discrete-figures-7d9e9c275c47
 * [Deep Learning Dance Smackdown](http://silky.github.io/posts/2017-08-28-deep-learning-dance-smackdown.html)
 
