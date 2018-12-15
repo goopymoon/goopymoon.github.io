@@ -58,9 +58,9 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 * [Human motion prediction](https://github.com/una-dinosauria/human-motion-prediction)
 * [Recurrent Neural Networks for Modeling Motion Capture Data](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/wpapers/DL2.pdf)
 
-* 3D Pose estimation
-  * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
-  * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
+3D Pose estimation
+* https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
+* https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
   
 Using CMU Motion Capture Database
 * [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
