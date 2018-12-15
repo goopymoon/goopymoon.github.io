@@ -4,7 +4,7 @@ Unreal
 * [UnrealVS Setup](http://api.unrealengine.com/KOR/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
 * [UAT](https://blog.mi.hdm-stuttgart.de/index.php/2017/02/11/uat-automation/)
   * Making installedbuild in terminal
-    * EnginePath/Build/BatchFiles/RunUAT.bat BuildGraph -target="Make Installed Build Win64" -script=Engine/Build/InstalledEngineBuild.xml -set:WithWin64=true -set:WithAndroid=true -set:WithWin32=false -set:WithLinux=false -set:WithLumin=false
+    * EnginePath/Build/BatchFiles/RunUAT.bat BuildGraph -target="Make Installed Build Win64" -script=EnginePath/Build/InstalledEngineBuild.xml -set:WithWin64=true -set:WithAndroid=true -set:WithWin32=false -set:WithLinux=false -set:WithLumin=false
   * Making apk in terminal
     * EnginePath/Build/BatchFiles/RunUAT.bat BuildCookRun -Project=ProjectName.uproject -NoP4 -TargetPlatform=Android_ASTC -Platform=Android -ClientConfig=Development -Cook -allMaps -Build -Stage -Pak -Archive -ArchiveDirectory=OutputPath -Rocket -Package
 
