@@ -1,5 +1,3 @@
-I'm personally interested in the making of intelligent vocaloid in virtual world and its service.
-
 * [Simple network library](https://github.com/goopymoon/RefLib)
 * [Mobile game technolgy stack](https://github.com/goopymoon/goopymoon.github.io/blob/master/mobile_game_technology_stack.md)
 * [Lego like bricks](https://github.com/goopymoon/iBlock/wiki)
