@@ -3,6 +3,11 @@ Unreal
 * [Coding Style](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/index.html)
 * [UnrealVS Setup](http://api.unrealengine.com/KOR/Programming/Development/VisualStudioSetup/UnrealVS/index.html)
 * [UAT](https://blog.mi.hdm-stuttgart.de/index.php/2017/02/11/uat-automation/)
+  * Making installedbuild in terminal
+    * EnginePath/Build/BatchFiles/RunUAT.bat BuildGraph -target="Make Installed Build Win64" -script=Engine/Build/InstalledEngineBuild.xml -set:WithWin64=true -set:WithAndroid=true -set:WithWin32=false -set:WithLinux=false -set:WithLumin=false
+  * Making apk in terminal
+    * EnginePath/Build/BatchFiles/RunUAT.bat BuildCookRun -Project=ProjectName.uproject -NoP4 -TargetPlatform=Android_ASTC -Platform=Android -ClientConfig=Development -Cook -allMaps -Build -Stage -Pak -Archive -ArchiveDirectory=OutputPath -Rocket -Package
+
 * [Android debugging](http://pafuhana1213.hatenablog.com/entry/2018/02/15/001307)
 * [commandlet](https://api.unrealengine.com/udk/Three/CommandletHome.html)
 * [UE4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf)
