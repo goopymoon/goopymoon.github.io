@@ -47,9 +47,6 @@ Preparing Data
 Motion Capture using ML
 * [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
-* 3D Pose estimation
-  * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
-  * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
 * [Classification of K-Pop Dance Movements Based on
 Skeleton Information Obtained by a Kinect Sensor](https://pdfs.semanticscholar.org/d0a1/12f02818a57f3a10364d555c8c40bdfabbcd.pdf)
 * [3D Human Motion Capture from 2D Video using Cloud-Based CNNs](http://on-demand.gputechconf.com/gtc/2017/presentation/s7289-paul-kruszewski-human-motion-capture-from-2d-video-using-cloud-based-cnns.pdf)
@@ -61,6 +58,10 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 * [Human motion prediction](https://github.com/una-dinosauria/human-motion-prediction)
 * [Recurrent Neural Networks for Modeling Motion Capture Data](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/wpapers/DL2.pdf)
 
+* 3D Pose estimation
+  * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
+  * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
+  
 Using CMU Motion Capture Database
 * [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
   * [motion data file format](http://www.dcs.shef.ac.uk/intranet/research/public/resmes/CS0111.pdf)
