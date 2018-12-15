@@ -47,6 +47,7 @@ Preparing Data
 Motion Capture using ML
 * [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
+* 3D Pose estimation
   * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
   * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
 * [Classification of K-Pop Dance Movements Based on
