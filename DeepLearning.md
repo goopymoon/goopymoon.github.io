@@ -44,9 +44,6 @@ Preparing Data
 * https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 * https://github.com/philographer/crawl-google
 
-Face 
-* https://github.com/ildoonet/deepface
-  
 Motion Capture using ML
 * [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
@@ -79,9 +76,13 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 
 3D Pose estimation
 * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
+* https://github.com/CMU-Perceptual-Computing-Lab/openpose
 * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
   * https://github.com/ildoonet/tf-pose-estimation/issues/361
 * https://github.com/facebookresearch/VideoPose3D
+
+Face
+* https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/standalone_face_or_hand_keypoint_detector.md
 
 Dancing motion generation
 * [Learn Audio Beat Tracking for Music Information Retrieval](https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/)
