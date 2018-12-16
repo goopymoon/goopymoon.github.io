@@ -63,6 +63,9 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
   * https://github.com/ildoonet/tf-pose-estimation/issues/361
 * https://github.com/facebookresearch/VideoPose3D
+
+Face 
+* https://github.com/ildoonet/deepface
   
 Using CMU Motion Capture Database
 * [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
