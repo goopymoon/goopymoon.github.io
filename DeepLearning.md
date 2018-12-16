@@ -44,6 +44,9 @@ Preparing Data
 * https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 * https://github.com/philographer/crawl-google
 
+Face 
+* https://github.com/ildoonet/deepface
+  
 Motion Capture using ML
 * [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
@@ -57,17 +60,6 @@ Skeleton Information Obtained by a Kinect Sensor](https://pdfs.semanticscholar.o
 using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf)
 * [Human motion prediction](https://github.com/una-dinosauria/human-motion-prediction)
 * [Recurrent Neural Networks for Modeling Motion Capture Data](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/wpapers/DL2.pdf)
-
-3D Pose estimation
-* https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
-* https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
-  * https://github.com/ildoonet/tf-pose-estimation/issues/361
-* https://github.com/facebookresearch/VideoPose3D
-
-Face 
-* https://github.com/ildoonet/deepface
-  
-Using CMU Motion Capture Database
 * [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
   * [motion data file format](http://www.dcs.shef.ac.uk/intranet/research/public/resmes/CS0111.pdf)
   * [How to convert BVH to VMD](https://github.com/powroupi/blender_mmd_tools/wiki/Tutorial:-How-to-convert-BVH-to-VMD)
@@ -84,6 +76,12 @@ Using CMU Motion Capture Database
     * https://github.com/AliJalalifar/Character_Animation
   * [Lecture: RNN and autoencoder: pdf](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwj8rNb5kuzeAhXJTLwKHbG5BKwQFjAAegQIChAC&url=https%3A%2F%2Fcanvas.stanford.edu%2Ffiles%2F1079044%2Fdownload%3Fdownload_frd%3D1&usg=AOvVaw2uZMJCvtEE6eQHGcypWqev)
   * [LSTM-autoencoder](https://github.com/iwyoo/LSTM-autoencoder)
+
+3D Pose estimation
+* https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
+* https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
+  * https://github.com/ildoonet/tf-pose-estimation/issues/361
+* https://github.com/facebookresearch/VideoPose3D
 
 Dancing motion generation
 * [Learn Audio Beat Tracking for Music Information Retrieval](https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/)
