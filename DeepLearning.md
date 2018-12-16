@@ -61,9 +61,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 3D Pose estimation
 * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
 * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
-  * how to fix build error of "sudo python setup.py build_ext --inplace" in Mojave
-    * Add following line in the setup.py to pass compile option
-      * extra_compile_args = ['-stdlib=libc++'],
+  * https://github.com/ildoonet/tf-pose-estimation/issues/361
 * https://github.com/facebookresearch/VideoPose3D
   
 Using CMU Motion Capture Database
