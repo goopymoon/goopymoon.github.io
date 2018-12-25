@@ -23,6 +23,8 @@ Fundamentals
 * [Convolutional Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR2QW3KwKM8S_a1GLBfyUqAsB3xPLQAonBeSBkO0Um-U0eV4YA3KCR9fITA)
 * [Recurrent Neural Networks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks?fbclid=IwAR0qANuNwxQollX5oohasoCNVBZfrlXA3QLwYk6kPapT3iuvYoCRsqYv_QI)
 * [Tips and tricks](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks?fbclid=IwAR0wgAkPJT080t4QaNR96n12ius8WBGvbIuBwYi1RwQNHd7wtNM5dKRJxCk)
+  * [Lecture: RNN and autoencoder: pdf](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwj8rNb5kuzeAhXJTLwKHbG5BKwQFjAAegQIChAC&url=https%3A%2F%2Fcanvas.stanford.edu%2Ffiles%2F1079044%2Fdownload%3Fdownload_frd%3D1&usg=AOvVaw2uZMJCvtEE6eQHGcypWqev)
+  * [LSTM-autoencoder](https://github.com/iwyoo/LSTM-autoencoder)
 
 Image Classification
 * [CNN basics](https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/)
@@ -44,6 +46,13 @@ Preparing Data
 * https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 * https://github.com/philographer/crawl-google
 
+* [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
+  * [motion data file format](http://www.dcs.shef.ac.uk/intranet/research/public/resmes/CS0111.pdf)
+  * [How to convert BVH to VMD](https://github.com/powroupi/blender_mmd_tools/wiki/Tutorial:-How-to-convert-BVH-to-VMD)
+    * http://www6.atwiki.jp/vpvpwiki/pages/218.html#id_8e4d9a75
+      * https://github.com/esetomo/mio
+* [MPII human pose database](http://human-pose.mpi-inf.mpg.de/#overview)
+
 Motion Capture using ML
 * [This Reinforcement Learning Algorithm Can Capture Motion and Recreate It](https://arxiv.org/pdf/1810.03599.pdf)
 * [Creating custom Fortnite dances with webcam and Deep Learning](https://towardsdatascience.com/creating-custom-fortnite-dances-with-webcam-and-deep-learning-9b1a236c1b59)
@@ -57,22 +66,14 @@ Skeleton Information Obtained by a Kinect Sensor](https://pdfs.semanticscholar.o
 using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf)
 * [Human motion prediction](https://github.com/una-dinosauria/human-motion-prediction)
 * [Recurrent Neural Networks for Modeling Motion Capture Data](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2017/wpapers/DL2.pdf)
-* [CMU Motion Capture Database](http://mocap.cs.cmu.edu)
-  * [motion data file format](http://www.dcs.shef.ac.uk/intranet/research/public/resmes/CS0111.pdf)
-  * [How to convert BVH to VMD](https://github.com/powroupi/blender_mmd_tools/wiki/Tutorial:-How-to-convert-BVH-to-VMD)
-    * http://www6.atwiki.jp/vpvpwiki/pages/218.html#id_8e4d9a75
-      * https://github.com/esetomo/mio
-  * Auto Conditioned RNN motion
-    * https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s
-      * https://arxiv.org/pdf/1707.05363.pdf
-        * [Professor Forcing: A New Algorithm for Tranining Recurrent Networks](https://arxiv.org/pdf/1610.09038.pdf)
-      * https://github.com/papagina/Auto_Conditioned_RNN_motion (original pytorch version)
-      * https://github.com/hjzh4/Auto-Conditioned-LSTM (tensor flow version)
-  * [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
-    * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
-    * https://github.com/AliJalalifar/Character_Animation
-  * [Lecture: RNN and autoencoder: pdf](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwj8rNb5kuzeAhXJTLwKHbG5BKwQFjAAegQIChAC&url=https%3A%2F%2Fcanvas.stanford.edu%2Ffiles%2F1079044%2Fdownload%3Fdownload_frd%3D1&usg=AOvVaw2uZMJCvtEE6eQHGcypWqev)
-  * [LSTM-autoencoder](https://github.com/iwyoo/LSTM-autoencoder)
+* Auto Conditioned RNN motion
+  * https://www.youtube.com/watch?v=FunMxjmDIQM&feature=youtu.be?t=0s
+    * https://arxiv.org/pdf/1707.05363.pdf
+      * [Professor Forcing: A New Algorithm for Tranining Recurrent Networks](https://arxiv.org/pdf/1610.09038.pdf)
+    * https://github.com/papagina/Auto_Conditioned_RNN_motion (original pytorch version)     * https://github.com/hjzh4/Auto-Conditioned-LSTM (tensor flow version)
+* [A DEEP LEARNING FRAMEWORK FOR CHARACTER MOTION SYNTHESIS AND EDITING](http://www.gameanim.com/2016/05/22/deep-learning-framework-character-motion-synthesis-editing/)
+  * [pdf](http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf)
+  * https://github.com/AliJalalifar/Character_Animation
 
 3D Pose estimation
 * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
