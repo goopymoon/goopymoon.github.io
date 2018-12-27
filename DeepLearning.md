@@ -1,7 +1,7 @@
 Setup
 * [pyenv/virtualenv/autoenv](http://taewan.kim/post/python_virtual_env/)
 * [macos for deep learning](https://www.pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/)
-  * [using virtualenv under vscode](https://donjayamanne.github.io/pythonVSCodeDocs/docs/python-path/)
+* [using virtualenv under vscode](https://donjayamanne.github.io/pythonVSCodeDocs/docs/python-path/)
 * [Tensorflow](https://www.tensorflow.org/install/?hl=ko)
 * [Keras](https://keras.io/#installation)
 * [Anaconda](https://conda.io/docs/user-guide/install/windows.html)
