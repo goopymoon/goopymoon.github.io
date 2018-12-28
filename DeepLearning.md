@@ -80,6 +80,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose
 * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
+  * http://openresearch.ai/t/tensorpack-multigpu/45
   * https://github.com/ildoonet/tf-pose-estimation/issues/361
 * https://github.com/facebookresearch/VideoPose3D
 
