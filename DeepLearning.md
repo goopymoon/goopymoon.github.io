@@ -81,6 +81,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose
 * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
   * http://openresearch.ai/t/tensorpack-multigpu/45
+  * https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/
   * https://github.com/ildoonet/tf-pose-estimation/issues/361
 * https://github.com/facebookresearch/VideoPose3D
 
