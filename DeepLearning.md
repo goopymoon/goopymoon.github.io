@@ -79,6 +79,8 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 3D Pose estimation
 * https://www.youtube.com/watch?v=nUjGLjOmF7o&t=641s
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose
+  * [openpose part1](https://arvrjourney.com/human-pose-estimation-using-openpose-with-tensorflow-part-1-7dd4ca5c8027)
+  * [openpose part2](https://arvrjourney.com/human-pose-estimation-using-openpose-with-tensorflow-part-2-e78ab9104fc8)
 * https://github.com/ildoonet/tf-pose-estimation/blob/master/README.md
   * http://openresearch.ai/t/tensorpack-multigpu/45
   * https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/
