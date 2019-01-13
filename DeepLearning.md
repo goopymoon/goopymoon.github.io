@@ -86,9 +86,11 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
   * https://blog.lunit.io/2018/07/02/deeplab-v3-encoder-decoder-with-atrous-separable-convolution-for-semantic-image-segmentation/
   * https://github.com/ildoonet/tf-pose-estimation/issues/361
 * https://github.com/facebookresearch/VideoPose3D
+  * https://github.com/facebookresearch/Detectron
 
 Face
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/standalone_face_or_hand_keypoint_detector.md
+* [opencv facemark](https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/)
 
 Dancing motion generation
 * [Learn Audio Beat Tracking for Music Information Retrieval](https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/)
