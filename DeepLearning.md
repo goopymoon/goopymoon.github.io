@@ -87,9 +87,10 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
   * https://github.com/ildoonet/tf-pose-estimation/issues/361
 * https://github.com/facebookresearch/VideoPose3D
   * https://github.com/facebookresearch/Detectron
-  * [Face Landmarks Detection In Your Android App — Part 1](https://tech.pic-collage.com/face-landmarks-detection-in-your-android-app-part-1-2c4431eaa3d9)
-  * [Face Landmarks Detection In Your Android App — Part 2](https://tech.pic-collage.com/face-landmarks-detection-in-your-android-app-part-2-ae049a4ac0d1)
-  * [Face Landmarks Detection In Your Android App — Part 3](https://tech.pic-collage.com/face-landmarks-detection-in-your-android-app-part-3-4705ac34201f)
+* Face Landmarks Detection In Your Android App
+  * [Part 1](https://tech.pic-collage.com/face-landmarks-detection-in-your-android-app-part-1-2c4431eaa3d9)
+  * [Part 2](https://tech.pic-collage.com/face-landmarks-detection-in-your-android-app-part-2-ae049a4ac0d1)
+  * [Part 3](https://tech.pic-collage.com/face-landmarks-detection-in-your-android-app-part-3-4705ac34201f)
 
 Face
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/standalone_face_or_hand_keypoint_detector.md
