@@ -91,6 +91,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 Face
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/standalone_face_or_hand_keypoint_detector.md
 * [opencv facemark](https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/)
+* [facial point annotations](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations)
 
 Dancing motion generation
 * [Learn Audio Beat Tracking for Music Information Retrieval](https://www.analyticsvidhya.com/blog/2018/02/audio-beat-tracking-for-music-information-retrieval/)
