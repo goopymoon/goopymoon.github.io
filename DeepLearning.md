@@ -96,6 +96,7 @@ Face
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/standalone_face_or_hand_keypoint_detector.md
 * [opencv facemark](https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/)
 * [Labeled Face Parts in the Wild (LFPW) Dataset](https://neerajkumar.org/databases/lfpw/)
+* [Helen dataset](http://www.ifp.illinois.edu/~vuongle2/helen/)
 * [facial point annotations](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations)
 
 Dancing motion generation
