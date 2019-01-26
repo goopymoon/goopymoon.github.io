@@ -95,6 +95,7 @@ using a CNN Coupled with a Geometric Prior](https://arxiv.org/pdf/1701.02354.pdf
 Face
 * https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/standalone_face_or_hand_keypoint_detector.md
 * [opencv facemark](https://www.learnopencv.com/facemark-facial-landmark-detection-using-opencv/)
+* [Labeled Face Parts in the Wild (LFPW) Dataset](https://neerajkumar.org/databases/lfpw/)
 * [facial point annotations](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations)
 
 Dancing motion generation
