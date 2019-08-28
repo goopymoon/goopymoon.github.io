@@ -117,3 +117,6 @@ Running on Devices
 * https://heartbeat.fritz.ai/deploying-pytorch-and-keras-models-to-android-with-tensorflow-mobile-a16a1fb83f2
 * https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32
 * https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
+
+Video
+* https://cliffordhall.com/2016/10/creating-video-server-node-js/
