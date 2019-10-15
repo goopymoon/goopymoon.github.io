@@ -4,3 +4,4 @@
 * [MMD](https://github.com/goopymoon/goopymoon.github.io/blob/master/MMD.md)
 * [Understanding ML through the Unity's ml agent](https://docs.google.com/presentation/d/e/2PACX-1vRloM3dMgWk55xAU-0nctVsxQIE2zqt6eANo0x8fqTcrlkvzkymB5R-kOIypL3QnDid1rqF0yl4kBmV/pub?start=false&loop=false&delayms=3000)
 * [Applying Deep learning to MMD](https://github.com/goopymoon/goopymoon.github.io/blob/master/DeepLearning.md)
+* [Making planet](https://github.com/goopymoon/goopymoon.github.io/blob/master/earth.md)
