@@ -16,3 +16,7 @@ How to build planet in real scale
 Worldwide terrain viewer based on Unreal Engine
 * https://www.youtube.com/watch?v=pUvoSZkFbjs&feature=youtu.be
 * https://militarysimulation.training/air/presagis-to-launch-worldwide-terrain-viewer-based-on-unreal-engine/
+
+Procedural Terrain Generation In Unreal with the Houdini Engine
+* https://vimeo.com/49472813
+* http://freek3d.com/downloads/Freek_Hoekstra_Graduation_final_report_Final_PRINTED.pdf
