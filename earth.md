@@ -1,18 +1,18 @@
 Building worlds (32k X 32k) with Houdini
-https://www.youtube.com/watch?time_continue=253&v=bQ_U1_MVKJQ
+* https://www.youtube.com/watch?time_continue=253&v=bQ_U1_MVKJQ
 
 World composition in UE4
-https://docs.unrealengine.com/ko/Engine/LevelStreaming/WorldBrowser/index.html
+* https://docs.unrealengine.com/ko/Engine/LevelStreaming/WorldBrowser/index.html
 
 Houdini Game Tools
-https://vimeo.com/286040204
+* https://vimeo.com/286040204
 
 Houdini's MapBox Node 
-https://lesterbanks.com/2018/11/introduction-houdini-mapbox-node/
+* https://lesterbanks.com/2018/11/introduction-houdini-mapbox-node/
 
 How to build planet in real scale
-http://www.twandegraaf.nl/Art/Documents/Procedural%20planets%20into%20detail,%20Twan%20de%20Graaf%202012.pdf
+* http://www.twandegraaf.nl/Art/Documents/Procedural%20planets%20into%20detail,%20Twan%20de%20Graaf%202012.pdf
 
 Worldwide terrain viewer based on Unreal Engine
-https://www.youtube.com/watch?v=pUvoSZkFbjs&feature=youtu.be
-https://militarysimulation.training/air/presagis-to-launch-worldwide-terrain-viewer-based-on-unreal-engine/
+* https://www.youtube.com/watch?v=pUvoSZkFbjs&feature=youtu.be
+* https://militarysimulation.training/air/presagis-to-launch-worldwide-terrain-viewer-based-on-unreal-engine/
