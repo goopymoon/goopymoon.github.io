@@ -29,4 +29,3 @@ Planet generation using procedural mesh
 
 single vs. double precision in graphic card
 * https://www.microway.com/knowledge-center-articles/comparison-of-nvidia-geforce-gpus-and-nvidia-tesla-gpus/
-* https://www.experoinc.com/post/a-quick-note-on-gpu-accuracy-and-double-precision
