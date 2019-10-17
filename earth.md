@@ -23,3 +23,6 @@ Worldwide terrain viewer based on Unreal Engine
 Procedural Terrain Generation In Unreal with the Houdini Engine
 * https://vimeo.com/49472813
 * http://freek3d.com/downloads/Freek_Hoekstra_Graduation_final_report_Final_PRINTED.pdf
+
+Planet generation using procedural mesh
+* https://www.youtube.com/watch?v=QN39W020LqU&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
