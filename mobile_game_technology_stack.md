@@ -85,3 +85,12 @@ Seminar & Webinar
 * [Gaming on ASW 10/24/2017](https://github.com/goopymoon/goopymoon.github.io/blob/master/Docs/GamingOnAWS2017)
 * [AWS를 활용하여 Daily Report 만들기](https://www.slideshare.net/changjej/aws-daily-report)
 * [KGC 2014 가볍고 유연하게 데이터 분석하기](https://www.slideshare.net/julingks/kgc2014?next_slideshow=1)
+
+Network
+* [UE4 Networking in Advanced - Engine Source Analysis & High-Level Cases](https://dawnarc.com/2019/06/ue4networking-in-advanced-engine-source-analysis-high-level-cases/)
+* http://download.enmasse.com/documents/201205-gdm-tera.pdf
+* [TERA Server Architecture](https://www.slideshare.net/ujentus/cgdc2010)
+* [TERA 서버의 Modern C++ 활용기](https://www.slideshare.net/sangheonlee9/ndc2016-tera-modern-c)
+* [테라 한승환 팀장의 "심리스월드 서버 구현 노하우"](http://m.inven.co.kr/webzine/wznews.php?idx=60184&site=tera)
+* [Destiny's network mission architecture](https://www.gdcvault.com/play/1022247/Shared-World-Shooter-Destiny-s)
+
