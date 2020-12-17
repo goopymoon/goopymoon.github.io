@@ -105,6 +105,7 @@ Network
 
 GameLift
 * [Amazon GameLift](https://docs.aws.amazon.com/ko_kr/gamelift/latest/developerguide/gamelift-intro.html)
+* [Simple tutorial on how to deploy a Unreal Engine server to GameLift for beginners](https://forums.awsgametech.com/t/simple-tutorial-on-how-to-deploy-a-unreal-engine-server-to-gamelift-for-beginners/6401)
 * [Tutorial on integrating Unreal with Amazon GameLift](https://answers.unrealengine.com/questions/884106/tutorial-on-integrating-unreal-with-amazon-gamelif.html)
 * [셈플 코드](https://github.com/zeliard/GameLift/tree/master/GameLiftGameServer/GameLiftGameServer)
 * [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
