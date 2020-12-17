@@ -104,7 +104,7 @@ Network
   * https://www.gamasutra.com/blogs/GafgarDavallius/20190718/346598/Satisfactory_Network_Optimizations.php
 
 GameLift
-* [Amazon GameLift 시작하기](https://aws.amazon.com/ko/blogs/korea/getting-started-amazon-gamelift/)
+* [Amazon GameLift](https://docs.aws.amazon.com/ko_kr/gamelift/latest/developerguide/gamelift-intro.html)
 * [셈플 코드](https://github.com/zeliard/GameLift/tree/master/GameLiftGameServer/GameLiftGameServer)
 * [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
 * [아마존의 관리형 게임 플랫폼 활용하기: GameLift (Deep Dive)](https://www.slideshare.net/awskorea/amazon-game-lift-deep-dive-seungmo-koo/)
