@@ -102,3 +102,8 @@ Network
   * https://forums.unrealengine.com/legacy-tools-unreal-engine-3-udk/udk-programming-and-unrealscript/1440415-replication-packet-loss
   * https://www.makinggames.biz/programming/a-year-of-rain-network-optimisation,2335479.html
   * https://www.gamasutra.com/blogs/GafgarDavallius/20190718/346598/Satisfactory_Network_Optimizations.php
+
+GameLift
+* [Amazon GameLift 시작하기](https://aws.amazon.com/ko/blogs/korea/getting-started-amazon-gamelift/)
+* [셈플 코드](https://github.com/zeliard/GameLift/tree/master/GameLiftGameServer/GameLiftGameServer)
+* [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
