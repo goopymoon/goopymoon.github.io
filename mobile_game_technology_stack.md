@@ -107,3 +107,4 @@ GameLift
 * [Amazon GameLift 시작하기](https://aws.amazon.com/ko/blogs/korea/getting-started-amazon-gamelift/)
 * [셈플 코드](https://github.com/zeliard/GameLift/tree/master/GameLiftGameServer/GameLiftGameServer)
 * [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
+* [아마존의 관리형 게임 플랫폼 활용하기: GameLift (Deep Dive)](https://www.slideshare.net/awskorea/amazon-game-lift-deep-dive-seungmo-koo/)
