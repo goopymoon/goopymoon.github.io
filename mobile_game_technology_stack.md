@@ -105,6 +105,7 @@ Network
 
 GameLift
 * [Amazon GameLift](https://docs.aws.amazon.com/ko_kr/gamelift/latest/developerguide/gamelift-intro.html)
+* [Tutorial on integrating Unreal with Amazon GameLift](https://answers.unrealengine.com/questions/884106/tutorial-on-integrating-unreal-with-amazon-gamelif.html)
 * [셈플 코드](https://github.com/zeliard/GameLift/tree/master/GameLiftGameServer/GameLiftGameServer)
 * [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
 * [아마존의 관리형 게임 플랫폼 활용하기: GameLift (Deep Dive)](https://www.slideshare.net/awskorea/amazon-game-lift-deep-dive-seungmo-koo/)
