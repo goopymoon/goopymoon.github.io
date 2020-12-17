@@ -94,3 +94,11 @@ Network
 * [테라 한승환 팀장의 "심리스월드 서버 구현 노하우"](http://m.inven.co.kr/webzine/wznews.php?idx=60184&site=tera)
 * [Destiny's network mission architecture](https://www.gdcvault.com/play/1022247/Shared-World-Shooter-Destiny-s)
 * [UE4 Sockets multi-thread TCP communication](https://www.programmersought.com/article/91094430036/)
+* packet loss
+** https://answers.unrealengine.com/questions/515898/network-serialization-is-sensible-to-packet-corrup.html
+** Digging into Unreal Engine 4.21 Changes
+*** New: Total packets sent/received, total number of bytes sent/received, and total packets lost both in and out are now kept track in the net driver.
+** https://wiki.beyondunreal.com/Everything_you_ever_wanted_to_know_about_replication_(but_were_afraid_to_ask)#Reliability
+** https://forums.unrealengine.com/legacy-tools-unreal-engine-3-udk/udk-programming-and-unrealscript/1440415-replication-packet-loss
+** https://www.makinggames.biz/programming/a-year-of-rain-network-optimisation,2335479.html
+* https://www.gamasutra.com/blogs/GafgarDavallius/20190718/346598/Satisfactory_Network_Optimizations.php
