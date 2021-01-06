@@ -112,3 +112,6 @@ GameLift
   * [AWS SDK for C++](https://github.com/aws/aws-sdk-cpp)
 * [아마존의 관리형 게임 플랫폼 활용하기: GameLift (Deep Dive)](https://www.slideshare.net/awskorea/amazon-game-lift-deep-dive-seungmo-koo/)
 * https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu?lang=en-US
+
+Online subsystem
+* [UE4のOnlineSubsystemをさわってみた](https://qiita.com/mechamogera/items/312333b165b4b9940f09)
