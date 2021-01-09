@@ -115,3 +115,4 @@ GameLift
 
 Online subsystem
 * [UE4のOnlineSubsystemをさわってみた](https://qiita.com/mechamogera/items/312333b165b4b9940f09)
+* [EOS tutorial](https://www.youtube.com/watch?v=3u0EgoD-4YQ)
