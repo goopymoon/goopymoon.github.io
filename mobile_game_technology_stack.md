@@ -15,6 +15,7 @@ Unreal
 * [CSM](http://api.unrealengine.com/KOR/Platforms/Mobile/Lighting/HowTo/CascadedShadow/index.html)
 * [Unreal Summit 2017: ](http://replay.unrealsummit.co.kr/pp3.html)[pdf](http://replay.unrealsummit.co.kr/data2017/pp3.pdf)
 * [Getting Started with VR in Unreal Engine 4](https://www.tomlooman.com/getting-started-with-vr/)
+  * [Creating a VR Pawn](https://wirewhiz.com/unreal-engine/)
   * [Motion Controller Component Setup](https://docs.unrealengine.com/en-US/SharingAndReleasing/XRDevelopment/VR/DevelopVR/MotionController/index.html)
   * https://github.com/tomlooman/VRTemplates
 
