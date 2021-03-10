@@ -18,6 +18,7 @@ Unreal
   * [Creating a VR Pawn](https://wirewhiz.com/unreal-engine/)
   * [Motion Controller Component Setup](https://docs.unrealengine.com/en-US/SharingAndReleasing/XRDevelopment/VR/DevelopVR/MotionController/index.html)
   * https://github.com/tomlooman/VRTemplates
+* [Designing Blueprint Function Nodes in C++](https://mikelis.net/designing-blueprint-nodes-through-c/)
 
 Unity
 * [Using Streaming Assets in Unity](https://www.raywenderlich.com/165809/using-streaming-assets-unity), [Assetbundle fundamentals](https://unity3d.com/kr/learn/tutorials/topics/best-practices/assetbundle-fundamentals), [Resources folder](https://unity3d.com/kr/learn/tutorials/temas/best-practices/resources-folder)
