@@ -29,3 +29,10 @@ Planet generation using procedural mesh
 
 single vs. double precision in graphic card
 * https://www.microway.com/knowledge-center-articles/comparison-of-nvidia-geforce-gpus-and-nvidia-tesla-gpus/
+
+Google Maps Platform
+* https://developers.google.com/maps/documentation/gaming/overview_musk
+* https://geo-devrel-io2021-travel.web.app/#intro
+* https://mapstyle.withgoogle.com/
+* https://www.inaturalist.org/observations?place_id=any&subview=map
+* https://www.youtube.com/watch?v=CdDXbvBFXLY
