@@ -36,3 +36,7 @@ Google Maps Platform
 * https://mapstyle.withgoogle.com/
 * https://www.inaturalist.org/observations?place_id=any&subview=map
 * https://www.youtube.com/watch?v=CdDXbvBFXLY
+* A Guide to Using Google’s Maps SDK for Unity 3D
+  * https://medium.com/everdevs-community/a-guide-to-using-googles-new-maps-sdk-for-unity-3d-ed1d68b2305e
+  * https://medium.com/everdevs-community/a-guide-to-using-googles-new-maps-sdk-for-unity-3d-part-2-cff0d7225300
+  * https://medium.com/everdevs-community/a-guide-to-using-googles-new-maps-sdk-for-unity-3d-part-3-fb2a7927e8b8
