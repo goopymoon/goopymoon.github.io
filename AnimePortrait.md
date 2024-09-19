@@ -20,3 +20,7 @@ Line Art Colorization Using Text Tag With SECat and Changing Loss
 
 Deep Animation Video Interpolation in the Wild
 * https://github.com/lisiyao21/AnimeInterp/
+
+2D Game Animation Generation Model
+* https://huggingface.co/blog/lyogavin/godmoeanimation
+
