@@ -40,3 +40,13 @@ ATD-12K
 
 Adobe240 dataset
 * http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/DeepVideoDeblurring_Dataset_Original_High_FPS_Videos.zip
+
+Pytorch 환경 설정
+* cuda toolkit 12.4 버전 설치
+* anaconda 설치
+* python 3.11로 env 생성
+* cuda 버전에 맞는 pytorch 설치 
+  * conda install pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
+  * conda install -c conda-forge cupy cuda-version=12.4
+  * conda install -c conda-forge opencv
+  * conda install -c conda-forge easydict
